@@ -4,3 +4,5 @@ db_conf = {'host': "localhost",
         'dbname': "scrapper"}
         
 fb_graph_url = "http://graph.facebook.com/?ids="
+
+batch_size = 500;

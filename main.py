@@ -13,6 +13,7 @@ sitemaps = db.getTableData("sitemaps", ["id", "name", "url"], "flag=1", None, "p
 for row in sitemaps:
     smap = None
     try:
+        print "Opening sitemap at " + row['url']
         smap = urllib2.urlopen(row['url'])    
     except :
         print "Failed to open " + row['name'] + " sitemap"
@@ -20,6 +21,7 @@ for row in sitemaps:
     
     root = None
     try:
+        print "Parsing..."
         root = ET.fromstring(smap.read())   
     except :
         print "Failed to parse " + row['name'] + " sitemap XML"
@@ -30,21 +32,30 @@ for row in sitemaps:
     skipped = 0
     
     for url in root:
+        
         loc = url.find(nspace + "loc")
+        
+        link = loc.text
+        
+        if link is None: 
+            continue
+        else :
+            print "Opening url: " + link
+        
         if len(db.getTableData("stories", ["id"], "flag=1" 
-            + " AND url='" + loc.text + "'")) is 0 :
+            + " AND url='" + db.escape(link) + "'")) is 0 :
             
             story = None
             try:
                 story = urllib2.urlopen(loc.text) 
             except :
-                print "Failed to Open url " + loc.text
+                print "Failed to Open url " + link
                 continue
             
             try:
                 htm = BeautifulSoup(story.read())
             except :
-                print "Failed to parse html from " + loc.text
+                print "Failed to parse html from " + link
                 continue
             
             permalink = htm.find("meta", property="og:url")['content']
@@ -61,12 +72,13 @@ for row in sitemaps:
                     
             if len(db.getTableData("stories", ["id"], "flag=1" 
                 + " AND permalink_hash=" + str(permalink_hash)
-                + " AND permalink= '" + permalink + "'")) is 0 :
+                + " AND permalink= '" + db.escape(permalink) + "'")) is 0 :
+                    
                     db.insertTableData('stories', {'site_id' : row['id'],
                         'permalink_hash' : permalink_hash,
                         'permalink' :  permalink ,
                         'title' :  title ,
-                        'url' :  loc.text })
+                        'url' :  link })
                     
                     db.commitDb()
                         
@@ -77,8 +89,8 @@ for row in sitemaps:
                 skipped = skipped + 1
                 print "Skipped " + str(skipped) + " from " + row['name']   
             
-        db.insertTableData('sitemap_fetch', {'site_id' : row['id'], 'fetched' : fetched}) 
-        db.commitDb()
+    db.insertTableData('sitemap_fetch', {'site_id' : row['id'], 'fetched' : fetched}) 
+    db.commitDb()
 
         
 db.commitDb()

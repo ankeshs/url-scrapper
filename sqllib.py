@@ -22,6 +22,9 @@ class Database:
     def closeDb(self):
         self.db.close()
     
+    def escape(self, value):
+        return self.db.escape_string(value.encode('utf8'))
+    
     def getTableData(self, table, column="*", condition=None, group=None, order=None, limit=None, debug=False):
         query = "SELECT "
         if column is not None and column is not "*":
@@ -67,6 +70,25 @@ class Database:
             
         query += " VALUES (" + ",".join(data.values()) + "); "
         
+        if debug == True:
+            print query
+        
+        result = self.executeSql(query)
+        
+        return result
+        
+    def updateTableData(self, table, data, condition=None, order=None, limit=None, debug=False):
+        query = "UPDATE " + table + " SET " + self.db.escape_string(data.encode('utf8'))
+        
+        if condition is not None:
+            query += " WHERE "+ condition
+                
+        if order is not None:
+            query += " ORDER BY " + order
+            
+        if limit is not None:
+            query += " LIMIT " + limit
+                
         if debug == True:
             print query
         

@@ -1,0 +1,7408 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> 
+    <loc>http://www.sitemapcoopwhoop.com/news/life-lessons-mahabharata/</loc> 
+    <lastmod>2014-08-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>changefreq
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/too-munch-fun/munch</loc> 
+    <lastmod>2014-08-31</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/spice-up-karela/</loc> 
+    <lastmod>2014-08-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/inothernews/10-ways-to-bargain/</loc> 
+    <lastmod>2014-08-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/humor/obsessed-with-holidays/</loc> 
+    <lastmod>2014-08-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lastmodloc>http://www.scoopwhoop.com/humor/sanskaar-teachings/</loc> 
+    <lastmod>2014-08-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humour/english-hindi/</loc> 
+    <lastmod>2014-08-30</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/inothernews/so-emo-so-emo/</loc> 
+    <lastmod>2014-08-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/not-a-bitch-please/</loc> 
+    <lastmod>2014-08-30</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indian-palaces/</loc> 
+    <lastmod>2014-08-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlset>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indian-military-respect/</loc> 
+    <lastmod>2014-08-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/long-hair-girl-things/</loc> 
+    <lastmod>2014-08-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/ravi-comshastri-king-of-cliches/</loc> 
+    <lastmod>2014-08-29</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/inothernews/south-indian-movie-fan/</loc> 
+    <lastmod>2014-08-29</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/bengali-sweets/</loc> 
+    <lastmod>2014-08-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lessonsoc>http://www.scoopwhoop.com/inothernews/foreigners-talk-about-india/</loc> 
+    <lastmod>2014-08-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqngefreqom/inothernews/weddings-in-india/</loc> 
+    <lastmod>2014-08-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lastmodloc>http://www.scoopwhoop.com/inothernews/lessons-from-shaktiman/</loc> 
+    <lastmod>2014-08-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/innothernews/lessons-from-shaktiman/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lessonsococ>http://www.scoopwhoop.com/inothernews/transgender-visit/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/fanunny-computers/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hindittp://www.scoopwhoop.com/inothernews/professor-local-train/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsews/parineetis-take-on-periods/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtp://www.scoopwhoop.com/inothernews/daily-soaps/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/unknown-sachin-facts/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://waysww.scoopwhoop.com/inothernews/be-a-hero/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/humor/vennu-mallesh/</loc> 
+    <lastmod>2014-08-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/heroumor/vennu-mallesh/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localoc>http://www.scoopwhoop.com/humor/vennu-mallesh/</loc> 
+    <lastmod>2014-08-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/great-initiative-for-blind/</loc> 
+    <lastmod>2014-08-27</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/humor/ways-to-get-metro-seat/</loc> 
+    <lastmod>2014-08-27</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/comfy-fashion/</loc> 
+    <lastmod>2014-08-27</lastmod>
+<changefreq>newsever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>herottp://www.scoopwhoop.com/inothernews/life-before-and-after-phones/</loc> 
+    <lastmod>2014-08-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humorumor/lies-parents-tell/</loc> 
+    <lastmod>2014-08-27</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/inothernews/funny-dogue/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/unknowncomfortable-life/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/love-at-first/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/scoopwhoopten-non-indian-things/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/inothernews/ten-non-indian-things/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.computers/inothernews/everyone-friend/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>heroumorttp://www.scoopwhoop.com/entertainment/guys-avoid-talk/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/hilarious-ads-olx/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/indian-parent/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</neverurl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/actual-college-addas/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>neverurl</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/news/legalize-prostitution/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/beer-food/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooppwhoop.com/humor/real-delhi-girls/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  					  <loc>http://www.scoopwhoop.com/inothernews/differently-abled/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/initiativeothernews/shot-in-public/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/inothernews/sex-worker-daughters/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<publicriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/entertainment/alia-bhatt-joke/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/humor/nokia-1100-best/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/firstirst-job/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/inothernews/life-decisions/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</unknownrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/beer-brands-india/</loc> 
+    <lastmod>2014-08-24</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/impatient-person/</loc> 
+    <lastmod>2014-08-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetrll>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/namma-bengluru/</loc> 
+    <lastmod>2014-08-24</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.schemasoopwhoop.com/inothernews/namma-bengluru/</loc> 
+    <lastmod>2014-08-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<unknownrl> 
+    <loc>http://www.scoopwhoop.com/inothernews/old-comedy-shows/</loc> 
+    <lastmod>2014-08-24</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenp.com/inothernews/fashion-indian-women/</loc> 
+    <lastmod>2014-08-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/inothernews/indian-sanctuaries/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<changefreq>never</changefreq>
+<personriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/humor/pitbull-ringa-ringa/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/do-childish-things/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/world/bestt-vine-ever/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/bollywood-sports-movies/</loc> 
+    <lastmod>2014-08-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/tasty-diet-food/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/have-wanderlust/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/talking-lighter-ad/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/inothernews/india-pak-anthem/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>never</changefreq>
+<prioritywww>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/overrated-things/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/news/funny-indian-idioms/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywww>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/insensitive-comment/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/entertainment/life-from-the-90s/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/everyonentertainment/insta-celebs/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<celebshangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/sanitary-pad/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humouror/twitter-dad/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>humorttp://www.scoopwhoop.com/inothernews/children-dreams/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/street-bfast/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/an-aspiring-model/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/eco-comhangefreqnscious/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://womenww.scoopwhoop.com/humor/aspiring-model/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<unknownrl> 
+    <loc>http://www.scoopwhoop.com/news/legal-rape/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/insensitivendian-dads/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/kerala-destination/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/earth-saviours/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/no-say-fashion/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/no-say-fashion/</loc> 
+    <lastmod>2014-08-22</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/inothernews/cool-cats-in-town/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/typical-bombay-dude/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/swag-king-of-bollywood/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlset>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/swag-king-of-bollywood/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.saviourscoopwhoop.com/inothernews/indian-sandman/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/inothernews/must-fulfill-dreams/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenpwhoop.com/news/daler-mehndi-ice-bucket/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/street-food/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwhumor/marriage-excuses/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/humor/marriage-excuses/</loc> 
+    <lastmod>2014-08-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/marriageriage-excuses/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/child-molestation/</loc> 
+    <lastmod>2014-08-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/moviesnkey-king/</loc> 
+    <lastmod>2014-08-19</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/inothernews/kind-homeless-man/</loc> 
+    <lastmod>2014-08-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/being-anthem-woman-in-india/</loc> 
+    <lastmod>2014-08-19</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/inothernews/crazy-for-spicy-food/</loc> 
+    <lastmod>2014-08-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnment/overachiever-friends/</loc> 
+    <lastmod>2014-08-19</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/entertainment/overachiever-friends/</loc> 
+    <lastmod>2014-08-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooppwhoophoop.com/inothernews/sexual-harassment/</loc> 
+    <lastmod>2014-08-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/inothernews/vanishing-patriotism/</loc> 
+    <lastmod>2014-08-18</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenpwhoopp.com/humor/nice-people/</loc> 
+    <lastmod>2014-08-18</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/inothernews/boring-presentation/</loc> 
+    <lastmod>2014-08-18</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreqnsciousm/news/gulzar/</loc> 
+    <lastmod>2014-08-18</lastmod>
+<changefreq>newsver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/common-indian-lies/</loc> 
+    <lastmod>2014-08-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/sexualouth-indian-non-veg/</loc> 
+    <lastmod>2014-08-18</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/overly-many-man/</loc> 
+    <lastmod>2014-08-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/emoindians/</loc> 
+    <lastmod>2014-08-17</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>homelessttp://www.scoopwhoop.com/inothernews/emoindians/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/teleshopping/com</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenpwhoopwhoop.com/entertainment/adding-india-to-things/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetrll>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/monologue-professorud-indian/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/mumbai-awesome-stuff/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhooplow-marks-excuses/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localc>http://www.scoopwhoop.com/inothernews/kick-train-stunt/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/paranthas/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>neverer</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/hike-up-india/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/getaways-around-delhi/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>homelessttpttp://www.scoopwhoop.com/entertainment/couch-potato-signs/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/india-pakistan-independence/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httptp://www.scoopwhoop.com/inothernews/breaking-indian-stereotypes/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/newsever/pledge-6-languages/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq1req>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/india-solution/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/fun-when-broke-10/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreqprioritygefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/inothernews/indian-childhood/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indian-childhood/</loc> 
+    <lastmod>2014-08-16</lastmod>
+<childhoodhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/army-men-bravery-stories/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenpwhoopphoop.com/inothernews/true-patriotism-india/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/inothernews/is-your-life-hard/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenpwhoopwhoophoop.com/inothernews/10-things-about-india/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/inothernews/godrej-inspiring/</loc> 
+    <lastmod>2014-08-19</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplowoop.com/humor/style-evolution-pc/</loc> 
+    <lastmod>2014-08-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/inothernews/jana-gana-meaning/</loc> 
+    <lastmod>2014-08-14</lastmod>
+<changefreq>never</changefreq>
+<priority>19.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/life-hacks/</loc> 
+    <lastmod>2014-08-14</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localocc>http://www.scoopwhoop.com/entertainment/grammar-nazi/</loc> 
+    <lastmod>2014-08-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/common-man-national-anthem/</loc> 
+    <lastmod>2014-08-14</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/news/common-man-national-anthem/</loc> 
+    <lastmod>2014-08-14</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/englishtertainment/bad-lesson-bolly/</loc> 
+    <lastmod>2014-08-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/bad-lesson-bolly/</loc> 
+    <lastmod>2014-08-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiorityyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/trainhings-to-do-in-punjab/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/inothernews/our-hero-transformers/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreqnsciousm/inothernews/person-who-cant-cook-struggles/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<unknownrlrl> 
+    <loc>http://www.scoopwhoop.com/inothernews/person-who-cant-cook-struggles/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/breakup-blues/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/smartphone-2/</humorloc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenpwhoopphoopoop.com/inothernews/india-fb-timeline/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/humor/typical-delhi-girl/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/annoying-friends/</loc> 
+    <lastmod>2014-08-12</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpp://www.scoopwhoop.com/entertainment/love-changes-you/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiorityyrityrityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/harassmentppy-independence-day/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/inothernews/happy-independence-day/</loc> 
+    <lastmod>2014-08-14</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrityityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.common/humor/bollywood-sports-stars/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/humor/fashion-police/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/being-gay/</localocc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplowoop.com/news/being-gay/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/sports/rahul-dravid-cancer-fan/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreq>
+<priority>14.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/rupa-designs/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/dslr2/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/never-comsay-to-srk-fan/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>harassmentppyttp://www.scoopwhoop.com/inothernews/girls-response-to-a-pervert/</loc> 
+    <lastmod>2014-08-11</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrityityrityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/neverlocws/bollywood-book-adaptations/</loc> 
+    <lastmod>2014-08-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>harassmentppyttp://www.scoopwhoop.com/inothernews/powerful-apology-by-men/</loc> 
+    <lastmod>2014-08-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/mom-in-your-group/</loc> 
+    <lastmod>2014-08-11</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/sports/stuart-broad-nose-fracture/</loc> 
+    <lastmod>2014-08-11</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrityityrityyority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonm/inothernews/sindhi-delicacies/</loc> 
+    <lastmod>2014-08-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localocc>http://www.scoopwhoop.com/inothernews/sindhi-delicacies/</loc> 
+    <lastmod>2014-08-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/hill-station-south-india/</loc> 
+    <lastmod>2014-08-11</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/humor/living-alone-2/</loc> 
+    <lastmod>2014-08-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/monsoon/</loc> 		
+    <lastmod>2014-08-10</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrityityrityyorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqpriorityom/inothernews/dslr/</loc> 
+    <lastmod>2014-08-10</lastmod>
+<changefreqpriorityomreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/friend-sister/</loc> 
+    <lastmod>2014-08-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/bhaiyya-2/</loc> 
+    <lastmod>2014-08-09</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtp://www.scoopwhoop.com/entertainment/bhaiyya-2/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/awesome-delivery/</loc> 
+    <lastmod>2014-08-09</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.southcoopwhoop.com/entertainment/kajol-srk/</loc> 
+    <lastmod>2014-08-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/filmy-fan-fundas/</loc> 
+    <lastmod>2014-08-09</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/nightclub/</loc> 
+    <lastmod>2014-08-08</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/falling-ill/</loc> 
+    <lastmod>2014-08-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityyriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/best-rakhi-gift/</loc> 
+    <lastmod>2014-08-08</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localcc>http://www.scoopwhoop.com/inothernews/embarrassing-parents/</loc> 
+    <lastmod>2014-08-08</lastmod>
+<changefreq>never</changefreq>
+<priority>10.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/new-parent-quotes/</loc> 
+    <lastmod>2014-08-08</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/inothernews/die-hard-chatora/</loc> 
+    <lastmod>2014-08-08</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityyriorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comom/inothernews/die-hard-chatora/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <livingoc>http://www.scoopwhoop.com/inothernews/south-indians-in-north-india/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityyriorityiorityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/the-world-hates-women/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/inothernews/mummas-boy/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/life-mantras-krk/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq0angefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/life-mantras-krk/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityyriorityiorityriorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonmm/inothernews/junk-food-crazy/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/inothernews/girlshaircut/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityyriorityiorityriorityorityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/why-cricket-is-religion/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hardttp://www.scoopwhoop.com/humor/bollywood-overacting/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityyriorityiorityriorityorityyty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/salman-khan-raga/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://worldww.scoopwhoop.com/inothernews/indian-families-road-trips/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityyriorityiorityriorityorityytyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/isndian-families-road-trips/</loc> 
+    <lastmod>2014-08-06</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/things-we-should-do-again/</loc> 
+    <lastmod>2014-08-06</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenpwhoopwhoophoopwhoop.com/inothernews/love-my-hometown/</loc> 
+    <lastmod>2014-08-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/arts-students-life/</loc> 
+    <lastmod>2014-08-06</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplowoopp.com/inothernews/bollywood-mary-kom-priyanka/</loc> 
+    <lastmod>2014-08-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/brothers-epic-ragaesponse/</loc> 
+    <lastmod>2014-08-06</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://whyww.scoopwhoop.com/inothernews/brothers-epic-response/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityityorityrityityiorityyrityrityityrityyorityiorityriorityyriorityiorityriorityorityytyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/couples-issues/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooptenpwhoopwhoophoopwhoopcoopwhoop.com/entertainment/reasons-khichdi-amazing/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/travelling-tips/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/inothernews/indian-men-buying-condoms/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/scoopwhoopindianoffbeathotels/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/indianoffbeathotels/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/girl-sings-aye-mere-vatan-ke-logon/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/metallica-india-cover/</loc> 
+    <lastmod>2014-08-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplowoopphoop.com/entertainment/metallica-india-cover/</loc> 
+    <lastmod>2014-08-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+				<url> 
+    <loc>http://www.scoopwhoop.com/sports/kabaddi-in-india/</locc> 
+    <lastmod>2014-08-04</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsp.com/entertainment/mumbai-delhi/</loc> 
+    <lastmod>2014-08-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/inothernews/marry-rape-victim/</loc> 
+    <lastmod>2014-08-04</lastmod>
+<changefreq>never</changefreq>
+<priority>12.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humorttp/never-say-these-things/</loc> 
+    <lastmod>2014-08-04</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/humor/too-much-time-at-work/</loc> 
+    <lastmod>2014-08-04</lastmod>
+<changefreq>never</changefreq>
+<prioritywwworityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/spiceorts/cwg-2014-photos/</loc> 
+    <lastmod>2014-08-04</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/inothernews/25-aloo-love/</loc> 
+    <lastmod>2014-08-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/bollywoodfriendships/</loc> 
+    <lastmod>2014-08-03</lastmod>
+<changefreqpriorityngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/inothernews/biker-chicks/</loc> 
+    <lastmod>2014-08-03</lastmod>
+<changefreq>never</changefreq>
+<priority>12.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/summers-as-kids/</loc> 
+    <lastmod>2014-08-08</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/humor/americans-try-indian-snacks-for-the-first-time/</loc> 
+    <lastmod>2014-08-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/classmate-life-lessons/</loc> 
+    <lastmod>2014-08-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwworityyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/india-and-indians/</loc> 
+    <lastmod>2014-08-02</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lifeoc>http://www.scoopwhoop.com/entertainment/india-and-indians/</loc> 
+    <lastmod>2014-08-03</lastmod>
+<changefreq>never</changefreq>
+<priority>10.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sportss/unsung-heroes-sports/</loc> 
+    <lastmod>2014-08-02</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/news/friend-types/</loc> 
+    <lastmod>2014-08-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwworityyrityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/annoying-question-indians-ask/</loc> 
+    <lastmod>2014-08-02</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/entertainment/annoying-theatre-people/</loc> 
+    <lastmod>2014-08-02</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplowoopphoop.com/inothernews/parents-best-friends/</loc> 
+    <lastmod>2014-08-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/inothernews/parents-best-friends/</loc> 
+    <lastmod>2014-08-02</lastmod>
+<changefreq>never</changefreq>
+<priorityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/parents-best-friends/</loc> 
+    <lastmod>2014-08-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 					   <loc>http://www.scoopwhoop.com/humor/creeps-university/</loc> 
+    <lastmod>2014-08-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.08</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/maths-problems/</loc> 
+    <lastmod>2014-08-01</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/news/iloveyoubiryani/</loc> 
+    <lastmod>2014-08-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/scoopwhooptechnologically-challenged/</loc> 
+    <lastmod>2014-08-01</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/entertainment/wasseypur-life-lessons/</loc> 
+    <lastmod>2014-08-01</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhoop.com/humor/lazy-people-problems/</loc> 
+    <lastmod>2014-07-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/inothernews/lift-your-spirits/</loc> 
+    <lastmod>2014-07-31</lastmod>
+<changefreq>never</changefreq>
+<problemsiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqeqom/inothernews/indian-cities-and-town/</loc> 
+    <lastmod>2014-08-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/inothernews/nostalgic-old-childhood/</loc> 
+    <lastmod>2014-07-31</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplowoopphoopop.com/entertainment/annoying-things-teetotalers/</loc> 
+    <lastmod>2014-07-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/cute-shopping-advice/</loc> 
+    <lastmod>2014-08-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/humour/facebook-romeos/</loc> 
+    <lastmod>2014-07-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetrll>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/sex-in-bollywoodood/</loc> 
+    <lastmod>2014-07-31</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplowoopphoopopcoopwhoop.com/humor/wtf-questions-indians/</loc> 
+    <lastmod>2014-07-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/bad-roommate-signs/</loc> 
+    <lastmod>2014-07-30</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhoop.com/inothernews/break-up/</loc> 
+    <lastmod>2014-07-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/humor/drunk-guy-things/</loc> 
+    <lastmod>2014-07-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityorityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/scoopwhooppet-talk/</loc> 
+    <lastmod>2014-07-30</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/inothernews/traveling-solo/</loc> 
+    <lastmod>2014-07-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetrllrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/cwg-delhi-answers/</loc> 
+    <lastmod>2014-07-30</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/inothernews/brother-best-friend-bonding/</loc> 
+    <lastmod>2014-07-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/brother-best-friend-bonding/</loc> 
+    <lastmod>2014-08-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httptp://www.scoopwhoop.com/inothernews/india-girl-problems/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwriorityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/ugly-indiann-bangalore/</loc> 
+    <lastmod>2014-07-29</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtp://www.scoopwhoop.com/news/ugly-indian-bangalore/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/ugly-indian-bargainngalore/</loc> 
+    <lastmod>2014-07-31</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://workww.scoopwhoop.com/humor/fake-brands/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/mom-gestures/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwinothernews/no-marriage-state-of-mind/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 					   <loc>http://www.scoopwhoop.com/inothernews/delecious-ramadan-treats/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhoopp.com/inothernews/delecious-ramadan-treats/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/inothernews/i-need-a-vacation-so-damn-bad/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/vegan-dishes/</loc> 
+    <lastmod>2014-07-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetrllrlrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/delhi/</loc> 
+    		<lastmod>2014-07-27</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/indiannothernews/rajasthan/</loc> 
+    <lastmod>2014-07-27</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/dusky-women/</loc> 
+    <lastmod>2014-07-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrioritytyityyority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/bad-monologueves/</loc> 
+    <lastmod>2014-07-26</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.statecoopwhoop.com/inothernews/must-try-sweet-dishes/</loc> 
+    <lastmod>2014-07-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</uglyrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/beautiful-madras/</loc> 
+    <lastmod>2014-07-26</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://workwwww.scoopwhoop.com/inothernews/innovative-indians/</loc> 
+    <lastmod>2014-08-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/wedding-prioritywwwrioritytyityyorityictures/</loc> 
+    <lastmod>2014-07-26</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://womenww.scoopwhoop.com/news/sania-mirza-replies/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/back-to-school/to</loc> 
+    <lastmod>2014-07-26</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhoopwhoop.com/humour/funny-guy-bike-ladder/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetl> 
+    <loc>http://www.scoopwhoop.com/humour/funny-guy-bike-ladder/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/selfie-places-in-india/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/inothernews/talk-to-parents/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwhumor/hostellers/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localocc>http://www.scoopwhoop.com/entertainment/bollywood-lessons/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/school-friends/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localoccoc>http://www.scoopwhoop.com/entertainment/stupid-tablet-questions/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonmm/entertainment/kapil-sharma-car-salesman/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/kapil-sharma-car-salesman/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhooppoopwhoop.com/news/jump-pump/</loc> 
+    <lastmod>2014-08-30</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lovec>http://www.scoopwhoop.com/news/jump-pump/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</uglyrlrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/cwg-blooper/</lovecc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhoopwhoopp.com/humor/smoke-comebacks/</loc> 
+    <lastmod>2014-07-24</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/humor/first-job-lessons/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrioritytyityyorityicturesriorityityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/prem-aggan-humorreview/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/road-trips-india/</loc> 
+    <lastmod>2014-07-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetrllrlrlrl> 
+    <loc>http://www.scoopwhoop.com/inothernews/hill-person/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityityrityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonmm/inothernews/hill-person/</loc> 
+    <lastmod>2014-07-23</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/inothernews/superheroes-indianized/</loc> 
+    <lastmod>2014-07-23</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhooppoopwhoopp.com/inothernews/superheroes-indianized/</loc> 
+    <lastmod>2014-07-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetrllrll> 
+    <loc>http://www.scoopwhoop.com/inothernews/superheroes-indianized/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhooppoopwhooppwhoop.com/inothernews/muslim-hindu-kbc-ad/</loc> 
+    <lastmod>2014-07-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/sports/arsenal-fans/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityityrityrityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwsports/arsenal-fans/</loc> 
+    <lastmod>2014-07-24</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/bollywood-flip/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.08</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/night-shift-struggles/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpp://www.scoopwhoop.com/entertainment/night-shift-struggles/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrioritytyityyorityicturesriorityityrityrityityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/magic-smile/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>neverer</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpp://www.scoopwhoop.com/inothernews/two-year-old-answering/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/north-eastern-pride/</loc> 
+    <lastmod>2014-07-23</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/inothernews/north-eastern-pride/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityriorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/epicntertainment/signs-that-you-love-dancing/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/inothernews/staring/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/lgbt-portrayed-in-bollywood/</loc> 
+    <lastmod>2014-07-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>humorreviewttp://www.scoopwhoop.com/inothernews/kashmir-paradise/</loc> 
+    <lastmod>2014-07-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityrioritytyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/marriagedari-life-change/</loc> 
+    <lastmod>2014-07-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locc>http://www.scoopwhoop.com/inothernews/our-generation/</loc> 
+    <lastmod>2014-07-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityrioritytyityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/bhojpuri-bollywood-hits/</loc> 
+    <lastmod>2014-07-21</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/bhojpuri-bollywood-hits/</loc> 
+    <lastmod>2014-07-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhoopwhoopphoop.com/inothernews/sikh-captain-america/</loc> 
+    <lastmod>2014-07-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetlrl> 
+    <loc>http://www.scoopwhoop.com/inothernews/real-men/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityrioritytyityrityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/indianizedothernews/real-men/</loc> 
+    <lastmod>2014-07-19</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lifeoc>http://www.scoopwhoop.com/entertainment/daddys-girl/</loc> 
+    <lastmod>2014-07-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityrioritytyityrityyiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/android-users/</loc> 
+    <lastmod>2014-07-19</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttp://www.scoopwhoop.com/inothernews/men-v-women/</loc> 
+    <lastmod>2014-07-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/punctuality-problems/</loc> 
+    <lastmod>2014-07-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localocc>http://www.scoopwhoop.com/entertainment/girl-v-girls/</loc> 
+    <lastmod>2014-07-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityrioritytyityrityyiorityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/goodbye-comorkut/</loc> 
+    <lastmod>2014-07-18</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwinothernews.scoopwhoop.com/inothernews/gravity/</loc> 
+    <lastmod>2014-07-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/inothernews/types-of-drunks/</loc> 
+    <lastmod>2014-07-18</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityrioritytyityrityyiorityrityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonmm/entertainment/wtf-bollywood-facts/</loc> 
+    <lastmod>2014-07-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/entertainment/israeli-defense/</loc> 
+    <lastmod>2014-07-18</lastmod>
+<changefreq>never</changefreq>
+<priority>19.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/hide-porn/</loc> 
+    <lastmod>2014-07-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/signs-tomboy/</loc> 
+    <lastmod>2014-07-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/signs-typesomboy/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwhumor.scoopwhoop.com/inothernews/swimming-with-rajan/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</neverurl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/brands-israelin-india/</loc> 
+    <lastmod>2014-07-22</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wtfww.scoopwhoop.com/news/human-body-facts/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/inothernews/cobra-deo/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityrioritytyityrityyiorityrityrityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comorkut/humor/honey-singh-answers/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/inothernews/world-records-indians/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhooppoopwhooppoop.com/entertainment/girls-kiss-guys/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/entertainment/girls-kiss-guys/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrioritytyityyorityicturesriorityityrityrityityiorityrioritytyityrityyiorityrityrityrityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.cobram/humor/anil-kapoor-accent/</loc> 
+    <lastmod>2014-07-16</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/sports/playful-banter-cricket/</loc> 
+    <lastmod>2014-07-16</lastmod>
+<changefreq>never</changefreq>
+<priorityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/entertainment/new-phone/</loc> 
+    <lastmod>2014-07-16</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>honeyttp://www.scoopwhoop.com/entertainment/types-of-readers/</loc> 
+    <lastmod>2014-07-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/types-of-readers/</loc> 
+    <lastmod>2014-07-16</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/girl-is-not-asking-for-it/</loc> 
+    <lastmod>2014-07-15</lastmod>
+<changefreq>never</changefreq>
+<priorityriorityiorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comorkutm/humor/bollywood-candid-moments/</loc> 
+    <lastmod>2014-07-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localoccoc>http://www.scoopwhoop.com/inothernews/social-exp/</loc> 
+    <lastmod>2014-07-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityiorityorityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhoopgirls-colleges/</loc> 
+    <lastmod>2014-07-15</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttp://www.scoopwhoop.com/inothernews/outraged-and-angry/</loc> 
+    <lastmod>2014-07-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityiorityorityityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/blue-line-bus/</loc> 
+    <lastmod>2014-07-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locc>http://www.scoopwhoop.com/inothernews/blind-kid-question/</loc> 
+    <lastmod>2014-07-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/change-your-pc/</loc> 
+    <lastmod>2014-07-14</lastmod>
+<changefreqpriorityreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/bauble-lover/</loc> 
+    <lastmod>2014-07-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityiorityorityityiorityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/sex-epicntertainmentducation/</loc> 
+    <lastmod>2014-07-14</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/inothernews/house-hunting/</loc> 
+    <lastmod>2014-07-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetrllrlll>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/heart-attack/</loc> 
+    <lastmod>2014-07-14</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhoopwhoopphooppwhoop.com/humor/indian-superstitions/</loc> 
+    <lastmod>2014-07-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/inothernews/hungry-experiment/</loc> 
+    <lastmod>2014-07-13</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqeqom/inothernews/hundered-hugs/</loc> 
+    <lastmod>2014-07-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/inothernews/sin-city-india/</loc> 
+    <lastmod>2014-07-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/femina-cover/</loc> 
+    <lastmod>2014-07-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/du-people/</loc> 
+    <lastmod>2014-07-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetlrll>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/childhood-metallicamory/</loc> 
+    <lastmod>2014-07-17</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/humor/got-screwed/</loc> 
+    <lastmod>2014-07-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  					  <loc>http://www.scoopwhoop.com/inothernews/girl-asks-for-condom/</loc> 
+    <lastmod>2014-07-11</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comorkut/inothernews/colleagues/</loc> 
+    <lastmod>2014-07-11</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/inothernews/indian-racism/</loc> 
+    <lastmod>2014-07-11</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indian-advertising-tribute/</loc> 
+    <lastmod>2014-07-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lineoc>http://www.scoopwhoop.com/humor/hated-physics-in-school/</loc> 
+    <lastmod>2014-07-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.08</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indian-sports/</loc> 
+    <lastmod>2014-07-11</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loveroc>http://www.scoopwhoop.com/inothernews/indian-sports/</loc> 
+    <lastmod>2014-07-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityityrityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/zohra-comsehgal-passes-away/</loc> 
+    <lastmod>2014-07-10</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lineococ>http://www.scoopwhoop.com/inothernews/leh-ladakh-trip/</loc> 
+    <lastmod>2014-07-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/single-child/</loc> 
+    <lastmod>2014-07-10</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/inothernews/forget-yourself/</loc> 
+    <lastmod>2014-07-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityityrityiorityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/feminaorget-yourself/</loc> 
+    <lastmod>2014-07-31</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hugsttp://www.scoopwhoop.com/humor/no-second-date/</loc> 
+    <lastmod>2014-07-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/brands-brotherands-everywhere/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/inothernews/sachin-lords/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityityrityiorityrityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/solonam-silly-quotes/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localocc>http://www.scoopwhoop.com/inothernews/kbc-thought-provoking-ad/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityityrityiorityrityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/tea-snacks/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/sports/ger-vs-bra/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/football-fakens-india/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/inothernews/siblings/</loc> 
+    <lastmod>2014-07-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/siblings/</loc> 
+    <lastmod>2014-07-08</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comorkut/inothernews/siblings/</loc> 
+    <lastmod>2014-07-08</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/entertainment/pahadi-signs/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/pahadi-signs/</loc> 
+    <lastmod>2014-07-11</lastmod>
+<changefreq0freq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/entertainment/epic-bollywood-moves/</loc> 
+    <lastmod>2014-07-08</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comsehgal/inothernews/oh-my-memory/</loc> 
+    <lastmod>2014-07-08</lastmod>
+<comsehgalhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/petroleum-jelly-fashion-hacks/</loc> 
+    <lastmod>2014-07-07</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.sportscoopwhoop.com/entertainment/being-a-guy/</loc> 
+    <lastmod>2014-07-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<usersrl> 
+    <loc>http://www.scoopwhoop.com/inothernews/my-super-crazy-girlfriend/</loc> 
+    <lastmod>2014-07-07</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/inothernews/pickpocket-exp/</loc> 
+    <lastmod>2014-07-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/peeling-a-mango/</loc> 
+    <lastmod>2014-07-07</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhooppoopwhooppoopoop.com/inothernews/fauji-girlfriends/</loc> 
+    <lastmod>2014-07-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/humor/funny-suhaag-raat/</loc> 
+    <lastmod>2014-07-07</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sportssts/gopro-adam/</loc> 
+    <lastmod>2014-07-06</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptp://www.scoopwhoop.com/inothernews/please-clean-my-bedroom-pls/</loc> 
+    <lastmod>2014-07-06</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/lenses-problems/</loc> 
+    <lastmod>2014-07-05</lastmod>
+<changefreq1ngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/entertainment/indian-cousins/</loc> 
+    <lastmod>2014-07-05</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityrityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/indianothernews/lighten-up-bro/</loc> 
+    <lastmod>2014-07-05</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/chetan-bhagat-real-writer/</loc> 
+    <lastmod>2014-07-05</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopgirlswhoop.com/entertainment/loud-people/</loc> 
+    <lastmod>2014-07-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/entertainment/loud-people/</loc> 
+    <lastmod>2014-07-07</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityrityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humorreviewttpor/pink-lips-parody/</loc> 
+    <lastmod>2014-07-04</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/humor/pink-lips-parody/</loc> 
+    <lastmod>2014-07-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/first-date-no-no/</loc> 
+    <lastmod>2014-07-04</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lordsc>http://www.scoopwhoop.com/entertainment/first-date-no-no/</loc> 
+    <lastmod>2014-07-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.04</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/magicria-sharapova-i-dont-know/</loc> 
+    <lastmod>2014-07-03</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/cigarette-kid/</loc> 
+    <lastmod>2014-07-03</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainment/epic-ghazals/</loc> 
+    <lastmod>2014-07-04</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/news/black-cats/</loc> 
+    <lastmod>2014-07-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/black-captaints/</loc> 
+    <lastmod>2014-07-08</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.schooloopwhoop.com/inothernews/krk-kapil-sharma-twitter-row/</loc> 
+    <lastmod>2014-07-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/nail-compaint-freak/</loc> 
+    <lastmod>2014-07-03</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcom://www.scoopwhoop.com/inothernews/monsoon-dishes/</loc> 
+    <lastmod>2014-07-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/salary-what-salesmanlary/</loc> 
+    <lastmod>2014-07-02</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/humor/real-lyrics/</loc> 
+    <lastmod>2014-07-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  					  <loc>http://www.scoopwhoop.com/entertainment/desktops-are-cool/</loc> 
+    <lastmod>2014-07-01</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityyrityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwinothernews/partying-therapy/</loc> 
+    <lastmod>2014-07-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptpttp://www.scoopwhoop.com/entertainment/designer-feedback/</loc> 
+    <lastmod>2014-07-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrityityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/internet-confessions/</loc> 
+    <lastmod>2014-07-01</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/humor/slap-on-camera/</loc> 
+    <lastmod>2014-07-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrityityiorityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/scoopwhoopcant-do-without-mobile-phone/</loc> 
+    <lastmod>2014-07-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:changefreq//www.scoopwhoop.com/entertainment/hand/</loc> 
+    <lastmod>2014-07-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/hand/</loc> 
+    <lastmod>2014-07-01</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityyrityityiorityorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainment/rr-martin-harry-potter/</loc> 
+    <lastmod>2014-06-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/inothernews/likes/</loc> 
+    <lastmod>2014-06-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrityityiorityorityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/mother-of-fears/</loc> 
+    <lastmod>2014-06-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/hum-saath-saath-hain/</loc> 
+    <lastmod>2014-06-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrityityiorityoritytyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainment/hum-saath-saath-hain/</loc> 
+    <lastmod>2014-06-30</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/entertainment/bollywood-has-changed/</loc> 
+    <lastmod>2014-06-30</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityyrityityiorityoritytyrityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comom/inothernews/movie-buff-india/</loc> 
+    <lastmod>2014-06-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lordscoc>http://www.scoopwhoop.com/humor/honkers-suck/</loc> 
+    <lastmod>2014-06-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/bharatnatyam-mj-dance/</loc> 
+    <lastmod>2014-06-28</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loudc>http://www.scoopwhoop.com/humor/girls-on-fifa/</loc> 
+    <lastmod>2014-06-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/parineetiseti-chopra/</loc> 
+    <lastmod>2014-06-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/car-fanatic/</loc> 
+    <lastmod>2014-06-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetlrlll>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/sajid-khan-film-pornst-effects/</loc> 
+    <lastmod>2014-06-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/india-gate/</loc> 
+    <lastmod>2014-06-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhooprl>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/classmates-we-had/</loc> 
+    <lastmod>2014-06-27</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhooppoopwhooppoopooppwhoop.com/inothernews/chocolate-lovers/</loc> 
+    <lastmod>2014-06-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetlrlll> 
+    <loc>http://www.scoopwhoop.com/inothernews/chocolate-lovers/</loc> 
+    <lastmod>2014-06-27</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopcant.com/entertainment/bollywood-blooper/</loc> 
+    <lastmod>2014-06-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 					   <loc>http://www.scoopwhoop.com/humor/whistle-baja-parody/</loc> 
+    <lastmod>2014-06-26</lastmod>
+<changefreq>never</changefreq>
+<priority>11.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indian-mall-shoppers/</loc> 
+    <lastmod>2014-06-25</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptp://www.scoopwhoop.com/humor/men-will-be-men/</loc> 
+    <lastmod>2014-06-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhooprll>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/sarojini-nagar/</loc> 
+    <lastmod>2014-06-25</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.schooloopwhoopoopwhoop.com/inothernews/weight-struggles/</loc> 
+    <lastmod>2014-06-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/news/104-kauravas/</loc> 
+    <lastmod>2014-06-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityyrityityiorityoritytyrityiorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/neverpriorityws/104-kauravas/</loc> 
+    <lastmod>2014-07-08</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/inothernews/travel-changes-you/</loc> 
+    <lastmod>2014-07-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrityityiorityoritytyrityiorityyriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/dilli-ka-kalender/</loc> 
+    <lastmod>2014-06-24</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtp://www.scoopwhoop.com/inothernews/he-is-the-one-2/</loc> 
+    <lastmod>2014-06-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrityityiorityoritytyrityiorityyriorityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/it-guy/</loc> 
+    <lastmod>2014-06-23</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/news/elderly-man-sells-puppet/</loc> 
+    <lastmod>2014-06-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>changefreq
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/toilet-paper/</loc> 		
+    <lastmod>2014-06-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityyrityityiorityoritytyrityiorityyriorityyiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqgefreqom/inothernews/poem-on-love/</loc> 
+    <lastmod>2014-06-23</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttp://www.scoopwhoop.com/inothernews/amateur-photographers-india/</loc> 
+    <lastmod>2014-06-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityyrityityiorityoritytyrityiorityyriorityyiorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainment/emo-peeps/</loc> 
+    <lastmod>2014-06-22</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/entertainment/1st-internet-generation/</loc> 
+    <lastmod>2014-06-22</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopindianoffbeathotelsppwhooppwhooppoopwhooppoopooppwhoop.com/inothernews/indian-beaches/</loc> 
+    <lastmod>2014-06-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loudcoc>http://www.scoopwhoop.com/humor/raghu-roadies-vocab/</loc> 
+    <lastmod>2014-06-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityritytyrityyrityityiorityoritytyrityiorityyriorityyiorityyiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/mumbai-metro/</loc> 
+    <lastmod>2014-06-22</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptptp://www.scoopwhoop.com/inothernews/caught-in-the-wrong-job/</loc> 
+    <lastmod>2014-06-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnment/dont-worry-be-happy/</loc> 
+    <lastmod>2014-06-21</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/mumbai-life-lesson/</loc> 
+    <lastmod>2014-06-21</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityyrityityiorityoritytyrityiorityyriorityyiorityyiorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreqom/inothernews/indian-hangman-story/</loc> 
+    <lastmod>2014-06-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  					  <loc>http://www.scoopwhoop.com/inothernews/stop-worrying/</loc> 
+    <lastmod>2014-06-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/questionsatar-world-cup/</loc> 
+    <lastmod>2014-06-21</lastmod>
+<changefreq>newsever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptptpttp://www.scoopwhoop.com/inothernews/things-that-piss-off-writers/</loc> 
+    <lastmod>2014-06-20</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwrityritytyrityyrityityiorityoritytyrityiorityyriorityyiorityyiorityiorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/innothernews/monica-singh/</loc> 
+    <lastmod>2014-06-19</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/inothernews/younger-self-lessons-india/</loc> 
+    <lastmod>2014-06-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopgirlswhoophoop.com/inothernews/stray-dog-experiment-india/</loc> 
+    <lastmod>2014-06-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhooprll>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/reel-to-readersl-life/</loc> 
+    <lastmod>2014-06-20</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwsportsw.scoopwhoop.com/inothernews/ruin-a-mans-day-india/</loc> 
+    <lastmod>2014-06-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/indian-dopplegangers/</loc> 
+    <lastmod>2014-06-18</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/news/amar-singh/</loc> 
+    <lastmod>2014-06-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/humor/funny-one-in-the-group-india/</loc> 
+    <lastmod>2014-06-18</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopcantoop.com/humor/funny-one-in-the-group-india/</loc> 
+    <lastmod>2014-06-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/entertainment/home-cooked/</loc> 
+    <lastmod>2014-06-18</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopgirlswhoophoop.com/humor/iphone-desi/</loc> 
+    <lastmod>2014-06-17</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/sports/sonysix/</loc> 
+    <lastmod>2014-06-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywww>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/17-siblingsgns-you-are-in-love-with-your-slippers/</loc> 
+    <lastmod>2014-06-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lifeoc>http://www.scoopwhoop.com/inothernews/north-east/</loc> 
+    <lastmod>2014-06-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/ganadget-freak-india/</loc> 
+    <lastmod>2014-06-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <localoccoc>http://www.scoopwhoop.com/entertainment/indian-rich-kid/</loc> 
+    <lastmod>2014-06-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainmentent/indian-rich-kid/</loc> 
+    <lastmod>2014-06-16</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/indian-rich-kid/</loc> 
+    <lastmod>2014-06-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/love-my-country/</loc> 
+    <lastmod>2014-06-20</lastmod>
+<changefreq0efreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/humor/indians-inside-airplanes/</loc> 
+    <lastmod>2014-06-16</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityriorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernews/size-of-your-dick/</loc> 
+    <lastmod>2014-06-16</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpp://www.scoopwhoop.com/inothernews/sikh-identity-celebration/</loc> 
+    <lastmod>2014-06-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.01</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/bajaappi-lahiri-fifa/</loc> 
+    <lastmod>2014-06-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locc>http://www.scoopwhoop.com/humor/jugaad-gone-overboard/</loc> 
+    <lastmod>2014-06-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityriorityyority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/jugaad-gone-overboard/</loc> 
+    <lastmod>2014-06-16</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/inothernews/instagram-addict-india/</loc> 
+    <lastmod>2014-06-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsewsrnews/what-did-you-do/</loc> 
+    <lastmod>2014-06-15</lastmod>
+<changefreq0efreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/humor/anger-issues/</loc> 
+    <lastmod>2014-06-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwityriorityyorityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhoopfathers-day-tribute/</loc> 
+    <lastmod>2014-06-14</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/maruti-memories/</loc> 
+    <lastmod>2014-06-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/scoopwhoophonest-ads/</loc> 
+    <lastmod>2014-06-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/lesbian-prank/</loc> 
+    <lastmod>2014-06-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</neverurl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/lesbian-prankank/</loc> 
+    <lastmod>2014-06-14</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.sikhcoopwhoop.com/inothernews/fathers-day-india/</loc> 
+    <lastmod>2014-06-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/humour/desi-brand-logos/</lococ> 
+    <lastmod>2014-06-13</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopgirlswhoophoopop.com/entertainment/iconic-bolly-dialgoues/</loc> 
+    <lastmod>2014-06-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/humour/couples-before-marriage/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoop.com/humour/couples-before-marriage/</loc> 
+    <lastmod>2014-06-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/humour/couples-before-marriage/</loc> 
+    <lastmod>2014-06-13</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoophonestwhoop.com/entertainment/scary-killer-prank/</loc> 
+    <lastmod>2014-06-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/tharki-india/</loc> 
+    <lastmod>2014-06-13</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoop.com/inothernews/love-to-sleep/</loc> 
+    <lastmod>2014-06-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccc>http://www.scoopwhoop.com/inothernews/school-teachers/</loc> 
+    <lastmod>2014-06-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prankiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernews/defy-section-377/</loc> 
+    <lastmod>2014-06-12</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lococc>http://www.scoopwhoop.com/sports/india-world-cup-football/</loc> 
+    <lastmod>2014-06-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainment/x-men-bollywood-cast/</loc> 
+    <lastmod>2014-06-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpp://www.scoopwhoop.com/inothernews/bad-hair-day/</loc> 
+    <lastmod>2014-06-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/rahman-worldill-i-am/</loc> 
+    <lastmod>2014-06-11</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/entertainment/engineering-college/</loc> 
+    <lastmod>2014-06-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/inothernewsothernewsdian-summer-is-too-hot/</loc> 
+    <lastmod>2014-06-11</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/inothernews/shopping-at-zara/</loc> 
+    <lastmod>2014-06-11</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsthernews/prachi-story/</loc> 
+    <lastmod>2014-06-11</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/inothernews/epic-non-veg-dishes/</loc> 
+    <lastmod>2014-06-12</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwyty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/isnothernews/is-mumbai-safe/</loc> 
+    <lastmod>2014-06-10</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/trips-before-your-20s/</loc> 
+    <lastmod>2014-06-10</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoophonestwhoopp.com/humor/gully-cricket/</loc> 
+    <lastmod>2014-06-10</lastmod>
+<crickethangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/entertainment/say-i-love-you/</loc> 
+    <lastmod>2014-06-09</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwytyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreqom/inothernews/swimming-with-elephants/</loc> 
+    <lastmod>2014-06-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  					  <loc>http://www.scoopwhoop.com/inothernews/group-of-friends/</loc> 
+    <lastmod>2014-06-09</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwytyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainmententertainment/guys-you-should-not-date/</loc> 
+    <lastmod>2014-06-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/news/indians-braving-the-heat/</loc> 
+    <lastmod>2014-06-07</lastmod>
+<changefreq>never</changefreq>
+<priority>12.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernews/chai-wallahs-of-india/</loc> 
+    <lastmod>2014-06-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpp://www.scoopwhoop.com/inothernews/ultimate-foodie/</loc> 
+    <lastmod>2014-06-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwytyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/shocking-readersctions-to-rape/</loc> 
+    <lastmod>2014-06-07</lastmod>
+<changefreq>newsever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>humorttp://www.scoopwhoop.com/inothernews/questions-on-modi/</loc> 
+    <lastmod>2014-06-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwytyrityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmentt/hum-apke-hain-koun/</loc> 
+    <lastmod>2014-06-06</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/inothernews/aunties-in-delhi-metro/</loc> 
+    <lastmod>2014-06-06</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwytyrityorityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreq/inothernews/rape-hypocrisy/</loc> 
+    <lastmod>2014-06-06</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptptptp://www.scoopwhoop.com/humor/aib-mitron/</loc> 
+    <lastmod>2014-06-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/women-speak-up/speak</loc> 
+    <lastmod>2014-06-06</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoophonestwhoopwhoop.com/entertainment/got-fans/</loc> 
+    <lastmod>2014-06-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   					 <loc>http://www.scoopwhoop.com/inothernews/types-of-horn/</loc> 
+    <lastmod>2014-06-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.06</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsthernewsnews/bengali-attempting-hindi/</loc> 
+    <lastmod>2014-06-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptptpp://www.scoopwhoop.com/inothernews/couples-around-us/</loc> 
+    <lastmod>2014-06-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwytyrityorityrityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/cbse-top-groupuy/</loc> 
+    <lastmod>2014-06-05</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.schooloopwhoop.com/entertainment/mispronounced-brands/</loc> 
+    <lastmod>2014-06-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</uprl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/cute-stray-dogs/</loc> 
+    <lastmod>2014-06-04</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwhumorw.scoopwhoop.com/inothernews/gay-and-straight/</loc> 
+    <lastmod>2014-06-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhoopl>
+<url> 
+    <loc>http://www.scoopwhoop.com/humor/desi-harry-potter/harry</loc> 
+    <lastmod>2014-06-04</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoopwhoop.com/humor/iphone-users-india/</loc> 
+    <lastmod>2014-06-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 					   <loc>http://www.scoopwhoop.com/inothernews/we-are-hiring/</loc> 
+    <lastmod>2014-06-04</lastmod>
+<changefreq>never</changefreq>
+<priority>10.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernews/satya-niketan-best/</loc> 
+    <lastmod>2014-06-03</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/shopping-fears-girl-faces/</loc> 
+    <lastmod>2014-06-03</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoophonestwhooppwhoop.com/humor/sidhuism-quotes/</loc> 
+    <lastmod>2014-06-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/sports/kkr-happy/</loc> 
+    <lastmod>2014-06-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/girls-comlove-for-tree/</loc> 
+    <lastmod>2014-06-03</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptp://www.scoopwhoop.com/inothernews/uttarakhand-lifelines/</loc> 
+    <lastmod>2014-06-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</potterriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsthernewsnewss/mixed-proverbs/</loc> 
+    <lastmod>2014-06-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lococ>http://www.scoopwhoop.com/inothernews/osho-the-meaning-of-fuck/</loc> 
+    <lastmod>2014-06-02</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwytyrityorityrityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernews/friendzone-men-india/</loc> 
+    <lastmod>2014-06-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hiringttp://www.scoopwhoop.com/entertainment/annoying-aunty/</loc> 
+    <lastmod>2014-06-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwytyrityorityritytyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/withoutne-person/</loc> 
+    <lastmod>2014-06-01</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/humor/cricket-fanatics-india/</loc> 
+    <lastmod>2014-06-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/colony-life/</loc> 
+    <lastmod>2014-06-01</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwinothernews.scoopwhoop.com/entertainment/girl-best-friend/</loc> 
+    <lastmod>2014-05-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</usersrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/school-library/</loc> 
+    <lastmod>2014-05-31</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.sidhuismcoopwhoop.com/inothernews/online-shopping/</loc> 
+    <lastmod>2014-05-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/news/short-girl-problems/</loc> 
+    <lastmod>2014-05-31</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoopwhoop.com/inothernews/youth-india/</loc> 
+    <lastmod>2014-05-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/inothernews/bribery-is-bad/</loc> 
+    <lastmod>2014-05-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwytyrityorityritytyityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/swageet-tooth/</loc> 
+    <lastmod>2014-05-30</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/srk-witty-quotes/</loc> 
+    <lastmod>2014-05-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/dogs-libraryife/</loc> 
+    <lastmod>2014-06-29</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoopwhoopcoopwhoop.com/humor/last-it-guy-remix/</loc> 
+    <lastmod>2014-05-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetlrlll> 
+    <loc>http://www.scoopwhoop.com/humor/indian-table-etiquettes/</loc> 
+    <lastmod>2014-05-29</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoopwhoop.com/inothernews/indians-obsessed-with-aloo/</loc> 
+    <lastmod>2014-05-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/inothernews/miss-india-pageant/</loc> 
+    <lastmod>2014-05-28</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoophonestwhooppwhoopwhoop.com/humor/satya-show/</loc> 
+    <lastmod>2014-05-28</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/inothernews/annoying-guy-habits/</loc> 
+    <lastmod>2014-05-28</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoopwhoopp.com/inothernews/little-girl-message/</loc> 
+    <lastmod>2014-05-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/entertainment/clumsy-indians/</loc> 
+    <lastmod>2014-05-28</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwytyrityorityritytyityityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreq/inothernews/airtel-friendship-test/</loc> 
+    <lastmod>2014-05-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   					 <loc>http://www.scoopwhoop.com/news/games-we-played/</loc> 
+    <lastmod>2014-05-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwytyrityorityritytyityityrityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/school-combag-innovation/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>newsever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hiringttpttp://www.scoopwhoop.com/inothernews/humma-humma-version/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwytyrityorityritytyityityrityorityriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsthernewsnewsss/section-377-repeal/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/inothernews/things-that-annoy-introverts/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoopwhoopop.com/entertainment/tiger-shroff-does-things/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/womens-abuse-showort-film/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/news/what-india-wants/</loc> 
+    <lastmod>2014-05-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+				<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/anti-smoking/</lococ> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoophonestwhooppwhoopwhoopop.com/entertainment/mom-prank-gone-wrong/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<usersrl> 
+    <loc>http://www.scoopwhoop.com/inothernews/ambassador-car-india/</loc> 
+    <lastmod>2014-05-26</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoopwhooppwhoop.com/inothernews/first-woman-surfer-india/</loc> 
+    <lastmod>2014-05-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhoopl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/bank-account-bankfor-beggars/</loc> 
+    <lastmod>2014-05-25</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptptptp://www.scoopwhoop.com/inothernews/best-friend-vs-good-friend/</loc> 
+    <lastmod>2014-06-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.06</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnews/girlfriend-logic/</loc> 
+    <lastmod>2014-05-25</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/entertainment/tall-girl-problems/</loc> 
+    <lastmod>2014-05-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwinothernews/incredible-india/</loc> 
+    <lastmod>2014-05-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>habitsttp://www.scoopwhoop.com/entertainment/real-love/</loc> 
+    <lastmod>2014-05-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/desk-badgs-innovation/</loc> 
+    <lastmod>2014-05-24</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptptpptp://www.scoopwhoop.com/inothernews/entrance-exam-pressures/</loc> 
+    <lastmod>2014-05-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsthernewsnewsssews/annoying-people-on-whatsapp/</loc> 
+    <lastmod>2014-05-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hummattp://www.scoopwhoop.com/inothernews/two-guys-and-a-girl/</loc> 
+    <lastmod>2014-05-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</pressuresiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnews/message-to-modi/</loc> 
+    <lastmod>2014-05-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccc>http://www.scoopwhoop.com/inothernews/halofinix-women-initiative/</loc> 
+    <lastmod>2014-05-24</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewsnothernews/farewell-feels/</loc> 
+    <lastmod>2014-05-23</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/news/suicide-prank/</loc> 
+    <lastmod>2014-05-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewsws/bangalore-airport/</loc> 
+    <lastmod>2014-05-23</lastmod>
+<changefreqpriorityfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/entertainment/royal-enfield-fanatic/</loc> 
+    <lastmod>2014-05-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.combagm/inothernews/guy-best-friend/</loc> 
+    <lastmod>2014-05-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/entertainment/bollywood-happy/</loc> 
+    <lastmod>2014-05-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwitytyorityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewsnothernews/indian-power-cuts/</loc> 
+    <lastmod>2014-05-22</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loveoc>http://www.scoopwhoop.com/entertainment/chutiyas-in-india/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<priority>12.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernews/woman-a-letch/</loc> 
+    <lastmod>2014-05-22</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/inothernews/francesco-pizza-drone/</loc> 
+    <lastmod>2014-05-22</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyorityiorityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwentertainment/rules-of-ekta-soap/</loc> 
+    <lastmod>2014-05-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccoc>http://www.scoopwhoop.com/inothernews/smileproject/</loc> 
+    <lastmod>2014-05-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwitytyorityiorityityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/scoopwhoopdrunk-girl/</loc> 
+    <lastmod>2014-05-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/silly-animals/</loc> 
+    <lastmod>2014-05-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/iphone-remix/</loc> 
+    <lastmod>2014-05-21</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwhumorww.scoopwhoop.com/inothernews/indian-authors/</loc> 
+    <lastmod>2014-05-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>changefreq
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/kill-the-poor/the</loc> 
+    <lastmod>2014-05-20</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoophonestwhooppwhoopwhoopopwhoop.com/inothernews/whiskey-drinker/</loc> 
+    <lastmod>2014-05-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/inothernews/neera-chopra/</loc> 
+    <lastmod>2014-05-20</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyorityiorityityorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsothernews/skinny-girls-india/</loc> 
+    <lastmod>2014-05-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptptpptp://www.scoopwhoop.com/inothernews/maggi/</loc> 
+    <lastmod>2014-05-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>changefreq
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/do-before-you-beforedie/</loc> 
+    <lastmod>2014-05-20</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.sillycoopwhoop.com/entertainment/friendzone/</loc> 
+    <lastmod>2014-05-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlscoopwhoopl> 
+    <loc>http://www.scoopwhoop.com/news/advice-to-arnab/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyorityiorityityorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernews/renew-it/</loc> 
+    <lastmod>2014-05-19</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccc>http://www.scoopwhoop.com/inothernews/bollywood-alternate-career/</loc> 
+    <lastmod>2014-05-19</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyorityiorityityorityyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreq/sports/i-league-amazinggoals/</loc> 
+    <lastmod>2014-05-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/inothernews/short-film-on-child-labor/</loc> 
+    <lastmod>2014-05-18</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyorityiorityityorityyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsothernewsthernews/railways/</loc> 
+    <lastmod>2014-05-17</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loveocc>http://www.scoopwhoop.com/news/viiracabs/</loc> 
+    <lastmod>2014-05-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</usersrlrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/kolkatan/entertainment</loc> 
+    <lastmod>2014-05-17</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopfatherspwhoopwhooppwhoopwhoop.com/inothernews/iconic-indian-quotes/</loc> 
+    <lastmod>2014-05-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/sports/pepsiipl/</loc> 
+    <lastmod>2014-05-19</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernews/political-oscars/</loc> 
+    <lastmod>2014-05-16</lastmod>
+<changefreq1angefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/news/driving-in-india/</loc> 
+    <lastmod>2014-05-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.06</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsothernewsthernewsnews/new-to-dating/</loc> 
+    <lastmod>2014-05-16</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <laboroc>http://www.scoopwhoop.com/inothernews/people-in-airplanes/</loc> 
+    <lastmod>2014-05-16</lastmod>
+<changefreq>never</changefreq>
+<priority>19.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernews/bombay-archive/</loc> 
+    <lastmod>2014-05-15</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/humour/people-who-wear-glasses/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyorityiorityityorityyrityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernews/school-in-delhi/</loc> 
+    <lastmod>2014-05-15</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/entertainment/ullu-ka-patha/</loc> 
+    <lastmod>2014-05-15</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyorityiorityityorityyrityyity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwnews/badvertising/</loc> 
+    <lastmod>2014-05-15</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccocc>http://www.scoopwhoop.com/entertainment/shop-signs/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwitytyorityiorityityorityyrityyityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainmententertainment/lip-balm/</loc> 
+    <lastmod>2014-05-14</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/marry-best-friend/</loc> 
+    <lastmod>2014-05-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwitytyorityiorityityorityyrityyityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/india-abroad/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopdrunkpwhoop.com/inothernews/college-life/</loc> 
+    <lastmod>2014-06-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/entertainment/indian-mnc/</loc> 
+    <lastmod>2014-05-13</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernews/angry-dad-prank/</loc> 
+    <lastmod>2014-05-13</lastmod>
+<changefreq1ngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/inothernews/mango-madness/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainment/gabbar-mgt/</loc> 
+    <lastmod>2014-05-12</lastmod>
+<changefreq1freq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/entertainment/sunny-leone-ramayana/</loc> 
+    <lastmod>2014-05-12</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwitytyorityiorityityorityyrityyityrityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.combagm/entertainment/mumbai-wallet/</loc> 
+    <lastmod>2014-05-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>halofinixttp://www.scoopwhoop.com/entertainment/auto-rickshaws/</loc> 
+    <lastmod>2014-05-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwitytyorityiorityityorityyrityyityrityrityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhoopno-eyebrows/</loc> 
+    <lastmod>2014-05-11</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptp://www.scoopwhoop.com/entertainment/gift-for-mom/</loc> 
+    <lastmod>2014-05-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/hello-happiness/</loc> 
+    <lastmod>2014-05-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/humshakals-review/</loc> 
+    <lastmod>2014-05-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwitytyorityiorityityorityyrityyityrityrityityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/bollyllywood-flicks/</loc> 
+    <lastmod>2014-05-10</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hellottp://www.scoopwhoop.com/entertainment/world-cinema-screwed/</loc> 
+    <lastmod>2014-05-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.06</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainmententertainmentinment/curly-hair/</loc> 
+    <lastmod>2014-05-10</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccc>http://www.scoopwhoop.com/entertainment/mom-made-food/</loc> 
+    <lastmod>2014-05-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwitytyorityiorityityorityyrityyityrityrityityyriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewss/child-labour/</loc> 
+    <lastmod>2014-05-10</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>humshakalsttp://www.scoopwhoop.com/entertainment/instagram-pictures/</loc> 
+    <lastmod>2014-05-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/indiansan-girls/</loc> 
+    <lastmod>2014-05-09</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/entertainment/broke-indians/</loc> 
+    <lastmod>2014-05-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</neverurl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/google-girlslass-surprise/</loc> 
+    <lastmod>2014-05-10</lastmod>
+<changefreq>neverurlver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtppttptptptptp://www.scoopwhoop.com/entertainment/mother-and-god/</loc> 
+    <lastmod>2014-05-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/datingelhi-music-video/</loc> 
+    <lastmod>2014-05-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccc>http://www.scoopwhoop.com/entertainment/old-monk-tribute/</loc> 
+    <lastmod>2014-05-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentment/things-nris-do/</loc> 
+    <lastmod>2014-05-08</lastmod>
+<changefreqpriorityreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/bollywood-couples/</loc> 
+    <lastmod>2014-05-09</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/newsver/gorgeous-delhi-pictures/</loc> 
+    <lastmod>2014-05-08</lastmod>
+<changefreq1angefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/awesome-characters/</loc> 
+    <lastmod>2014-05-08</lastmod>
+<changefreq>never</changefreq>
+<picturesriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/hindu-muslim/</loc> 
+    <lastmod>2014-07-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/inothernews/football-crazy-boyfriend/</loc> 
+    <lastmod>2014-05-07</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainmententertainmentinmentrtainment/break-stereotypes/</loc> 
+    <lastmod>2014-05-07</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptp://www.scoopwhoop.com/entertainment/break-stereotypes/</loc> 
+    <lastmod>2014-05-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhooplies-we-are-told/</loc> 
+    <lastmod>2014-05-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccocc>http://www.scoopwhoop.com/inothernews/indian-hoaxes/</loc> 
+    <lastmod>2014-05-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhoopdrooling-indian-dishes/</loc> 
+    <lastmod>2014-05-06</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/inothernews/girl-who-never-cries/</loc> 
+    <lastmod>2014-05-06</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwtyityityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreq/inothernews/advice-to-younger-self/</loc> 
+    <lastmod>2014-05-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   					 <loc>http://www.scoopwhoop.com/inothernews/90s/</loc> 
+    <lastmod>2014-05-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyityityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indiansan-quotes/</loc> 
+    <lastmod>2014-05-06</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://worldww.scoopwhoop.com/inothernews/trash-experiment/</loc> 
+    <lastmod>2014-05-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</usersrlrlrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/joint-family/</loc> 
+    <lastmod>2014-05-06</lastmod>
+<changefreq>never</changefreqreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopnoopwhoop.com/inothernews/seatbeltcrew/</loc> 
+    <lastmod>2014-05-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/inothernews/rajini-joins-twitter/</loc> 
+    <lastmod>2014-05-05</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopdrooling.com/entertainment/youngest-kids-cribbings/</loc> 
+    <lastmod>2014-05-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlscoopwhooplrl> 
+    <loc>http://www.scoopwhoop.com/entertainment/indian-guy-things/</loc> 
+    <lastmod>2014-05-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplieshoop.com/inothernews/chai-is-indias-favourite/</loc> 
+    <lastmod>2014-05-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/sports/funny-cricket/</loc>cricket 
+    <lastmod>2014-05-03</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwtyityityrityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/entertainment/kangana-ranaut-queen/</loc> 
+    <lastmod>2014-05-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/entertainment/why-we-like/</loc> 
+    <lastmod>2014-05-02</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwtyityityrityriorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainment/indie-movies/</loc> 
+    <lastmod>2014-05-03</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/inothernews/public-urination/</loc> 
+    <lastmod>2014-05-03</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwtyityityrityriorityyity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwinothernews/women-harassment/</loc> 
+    <lastmod>2014-05-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptpttp://www.scoopwhoop.com/inothernews/mumbai-gk-fail/</loc> 
+    <lastmod>2014-05-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyityityrityriorityyityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/magic-of-the-wild/</loc> 
+    <lastmod>2014-05-01</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptptp://www.scoopwhoop.com/inothernews/indian-spiderman/</loc> 
+    <lastmod>2014-05-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyityityrityriorityyityyty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/living-alone/</loc> 
+    <lastmod>2014-05-01</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/unseen-bollywood/</loc> 
+    <lastmod>2014-05-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/buddies-we-have/</loc> 
+    <lastmod>2014-05-01</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/nail-biting-situations/</loc> 
+    <lastmod>2014-05-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyityityrityriorityyityytyority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainmententertainmentinmentrtainmentt/ipl-fav-pastime/</loc> 
+    <lastmod>2014-05-01</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccccc>http://www.scoopwhoop.com/entertainment/politicians/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyityityrityriorityyityytyorityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/scoopwhoopamazing-mumbai/</loc> 
+    <lastmod>2014-08-11</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptpttpttp://www.scoopwhoop.com/entertainment/aap-ka-suroor/</loc> 
+    <lastmod>2014-04-30</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyityityrityriorityyityytyorityorityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/bollyllywoodng-nicknames/</loc> 
+    <lastmod>2014-04-29</lastmod>
+<changefreq>neverer</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptpttpp://www.scoopwhoop.com/entertainment/brand-tag-lines/</loc> 
+    <lastmod>2014-04-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwtyityityrityriorityyityytyorityorityityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/nicknameson-smoker-in-india/</loc> 
+    <lastmod>2014-04-29</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccccoc>http://www.scoopwhoop.com/inothernews/mural-new-delhi/</loc> 
+    <lastmod>2014-04-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainmentment/bollywood-face-swaps/</loc> 
+    <lastmod>2014-04-29</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/news/john-oliver-media/</loc> 
+    <lastmod>2014-04-29</lastmod>
+<changefreq>never</changefreq>
+<priority>16.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainmententertainmentinmentrtainmentttainment/angry-honey-singh/</loc> 
+    <lastmod>2014-04-28</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/inothernews/chai-wala-ceo/</loc> 
+    <lastmod>2014-04-28</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwtyityityrityriorityyityytyorityorityitytyity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwinothernews/indian-roads/</loc> 
+    <lastmod>2014-04-28</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/sports/brothel-to-man-united/</loc> 
+    <lastmod>2014-04-28</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwtyityityrityriorityyityytyorityorityitytyityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwentertainment/unsaid-delhi-rules/</loc> 
+    <lastmod>2014-04-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <linesoc>http://www.scoopwhoop.com/entertainment/batman-in-india/</loc> 
+    <lastmod>2014-04-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.08</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnews/arranged-marriages/</loc> 
+    <lastmod>2014-04-27</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/entertainment/bollywood-acting-fails/</loc> 
+    <lastmod>2014-04-27</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopdroolingop.com/inothernews/live-far-away-from-work/</loc> 
+    <lastmod>2014-04-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/entertainment/indian-weddings/</loc> 
+    <lastmod>2014-07-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplieshoophoop.com/entertainment/vande-mataram-awkward/</loc> 
+    <lastmod>2014-04-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+				<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/thar-lsd/</loc> 
+    <lastmod>2014-04-26</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopdroolingop.com/entertainment/shahrukh-fan/</loc> 
+    <lastmod>2014-04-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <liveoc>http://www.scoopwhoop.com/inothernews/10-things-that-beer-and-bros-have-in-common/</loc> 
+    <lastmod>2014-04-26</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/entertainment/ocd-symptoms/</loc> 
+    <lastmod>2014-04-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</unitedrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/ipl/</loc> 		
+    <lastmod>2014-04-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonom/inothernews/short-film/</loc> 
+    <lastmod>2014-04-26</lastmod>
+<commonomhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/entertainment/punjabi-myths/</loc> 
+    <lastmod>2014-04-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwentertainment/sridevi-dip/</loc> 
+    <lastmod>2014-04-25</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/entertainment/bollywood-bloopers/</loc> 
+    <lastmod>2014-04-25</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplieshoophoop.com/entertainment/inthiscity/</loc> 
+    <lastmod>2014-04-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccc>http://www.scoopwhoop.com/entertainment/chunky-pandey-photoshoot/</loc> 
+    <lastmod>2014-08-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainmentmentntertainment/free-things/</loc> 
+    <lastmod>2014-04-24</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/ekta-kapoor-got/</loc> 
+    <lastmod>2014-04-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonomhangefreq/inothernews/shoot-stories-2/</loc> 
+    <lastmod>2014-04-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptpttpttpttp://www.scoopwhoop.com/entertainment/indian-obvious-statements/</loc> 
+    <lastmod>2014-04-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentntertainmenttertainmententertainmentinmentrtainmentttainmentertainment/dog-owner-struggles/</loc> 
+    <lastmod>2014-04-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/inothernews/auto-rickshaw-invention/</loc> 
+    <lastmod>2014-04-23</lastmod>
+<changefreq>never</changefreq>
+<priority>16.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainmentmentntertainmenttainment/bollywood-villains/</loc> 
+    <lastmod>2014-04-22</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptpttpttp://www.scoopwhoop.com/inothernews/creative-ways-to-cheat/</loc> 
+    <lastmod>2014-04-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityitytyrityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnt/moms-we-all-love/</loc> 
+    <lastmod>2014-04-22</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/celebs-with-indian-names/</loc> 
+    <lastmod>2014-04-22</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comom/entertainment/delhi-girls/</loc> 
+    <lastmod>2014-04-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/news/amexfail/</loc> 
+    <lastmod>2014-04-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/news/indian-enigma/</loc> 
+		    <lastmod>2014-04-21</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonomhangefreqm/entertainment/awesome-tv-shows/</loc> 
+    <lastmod>2014-04-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <liveococ>http://www.scoopwhoop.com/entertainment/summer-beverages/</loc> 
+    <lastmod>2014-04-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/jointaaved-jaffrey-rap/</loc> 
+    <lastmod>2014-04-23</lastmod>
+<changefreq0q>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccccocc>http://www.scoopwhoop.com/inothernews/indian-romeos/</loc> 
+    <lastmod>2014-04-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityitytyrityiorityiorityorityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainmentmentntertainmenttainmentt/bollywood-lyrics-english/</loc> 
+    <lastmod>2014-04-20</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/inothernews/reita-faria/</loc> 
+    <lastmod>2014-04-19</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inventionothernews/special-bond-with-mangoes/</loc> 
+    <lastmod>2014-04-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/entertainment/indias-underrated-hill-stations/</loc> 
+    <lastmod>2014-04-19</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoop.com/entertainment/gunda-hobbit-mashup/</loc> 
+    <lastmod>2014-04-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/racism-social-englishxperiment/</loc> 
+    <lastmod>2014-04-18</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/himesh-got/</loc> 
+    <lastmod>2014-04-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhooplrll>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/indian-in-goa/</loccccccocc> 
+    <lastmod>2014-04-19</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplieshoophoop.com/entertainment/imran-khan-ama/</loc> 
+    <lastmod>2014-04-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/entertainment/first-kiss-india-parody/</loc> 
+    <lastmod>2014-04-17</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqeqom/inothernews/amazing-child-prodigy/</loc> 
+    <lastmod>2014-04-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 					   <loc>http://www.scoopwhoop.com/inothernews/stupid-cat-questions/</loc> 
+    <lastmod>2014-04-17</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comomm/entertainment/army-life-lessons/</loc> 
+    <lastmod>2014-04-17</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lastmodloc>http://www.scoopwhoop.com/entertainment/indians-you-wont-believe-exist/</loc> 
+    <lastmod>2014-04-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopdroolingophoop.com/inothernews/geekiest-room-ever/</loc> 
+    <lastmod>2014-04-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetlrlll> 
+    <loc>http://www.scoopwhoop.com/entertainment/tongue-twisters/</loc> 
+    <lastmod>2014-04-17</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplieshoophoop.com/inothernews/beer-drinkers/</loc> 
+    <lastmod>2014-04-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccccocc>http://www.scoopwhoop.com/entertainment/political-rap-battle/</loc> 
+    <lastmod>2014-04-16</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntrtainment/questions-we-hate/</loc> 
+    <lastmod>2014-04-16</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptpttpp://www.scoopwhoop.com/inothernews/one-hell-of-a-boss/</loc> 
+    <lastmod>2014-04-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityitytyrityiorityiorityorityorityyiorityorityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/momsovie-review-mpkdh/</loc> 
+    <lastmod>2014-04-15</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccc>http://www.scoopwhoop.com/entertainment/parenting-fails/</loc> 
+    <lastmod>2014-04-15</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainmentmentntertainmenttainmenttnment/21-indian-obsessions/</loc> 
+    <lastmod>2014-04-15</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/news/indian-grand-parents-are-the-best/</loc> 
+    <lastmod>2014-04-14</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoop.com/entertainment/frustrated-indian/</loc> 
+    <lastmod>2014-04-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>changefreq
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/filmy-love-scoopwhoopamazingpwhoopoopwhooptory/</loc> 
+    <lastmod>2014-04-14</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/inothernews/india-is-not-chaotic/</loc> 
+    <lastmod>2014-04-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetlrlllrl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/bollywoodood-horror-characters/</loc> 
+    <lastmod>2014-04-14</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lastmodchangefreqoc>http://www.scoopwhoop.com/entertainment/90s-indi-pop-music/</loc> 
+    <lastmod>2014-04-13</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsshernews/things-interns-go-through/</loc> 
+    <lastmod>2014-04-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccc>http://www.scoopwhoop.com/entertainment/fashion-tips-from-govinda/</loc> 
+    <lastmod>2014-04-13</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.commonomhangefreqm/entertainment/man-leching/</loc> 
+    <lastmod>2014-04-12</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/entertainment/witty-road-signs/</loc> 
+    <lastmod>2014-04-12</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoop.com/inothernews/eesha-khares-genius-invention/</loc> 
+    <lastmod>2014-04-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/news/awesome-bollywood-tracks/</loc> 
+    <lastmod>2014-04-11</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplieshoophoopoopwhoop.com/inothernews/flash-mob-proposal/</loc> 
+    <lastmod>2014-04-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/first-elections/</loc> 
+    <lastmod>2014-04-11</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhooptorypwhoop.com/entertainment/first-time-voters/</loc> 
+    <lastmod>2014-04-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/date-a-bong-girl/</loc> 
+    <lastmod>2014-04-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoop.com/news/man-lives-without-food/</loc> 
+    <lastmod>2014-04-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/entertainment/janta-maaf-nahi-karegi/</loc> 
+    <lastmod>2014-04-10</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplieshoophoopoopwhoopoop.com/inothernews/your-vote-counts/</loc> 
+    <lastmod>2014-04-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/entertainment/indian-words/</loc> 
+    <lastmod>2014-04-10</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inventionothernews/aap-documentary/</loc> 
+    <lastmod>2014-04-09</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/entertainment/contra/</loc> 
+    <lastmod>2014-04-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.09</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntrtainmentinment/animated-gow/</loc> 
+    <lastmod>2014-04-09</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/south-indian-north-indian/</loc> 
+    <lastmod>2014-04-09</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreqm/entertainment/awesome-college-foods/</loc> 
+    <lastmod>2014-04-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 					   <loc>http://www.scoopwhoop.com/inothernews/joys-of-life/</loc> 
+    <lastmod>2014-06-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainmentmentntertainmenttainmenttnmentainment/banta-is-awesome/</loc> 
+    <lastmod>2014-04-08</lastmod>
+<changefreq0angefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/choli-ke-peeche-rock-version/</loc> 
+    <lastmod>2014-04-08</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoop.com/entertainment/indian-mad-men/</loc> 
+    <lastmod>2014-04-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+				<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/what-happens-whatith-vegans/</loc> 
+    <lastmod>2014-04-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/rip-congress/</loc> 
+    <lastmod>2014-04-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/quotes-on-sachin/</loc> 
+    <lastmod>2014-04-08</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopoopwhoop.com/inothernews/1968-railway-strike/</loc> 
+    <lastmod>2014-04-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>changefreq
+<url> 
+    <loc>http://www.scoopwhoop.com/news/sun-solar-fare/</loc>fare 
+    <lastmod>2014-04-07</lastmod>
+<changefreq>never</changefreq>
+<peecheriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/entertainment/epic-bollywood-scenes/</loc> 
+    <lastmod>2014-04-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/kolkata-street-food/</loc> 
+    <lastmod>2014-04-05</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhooplieshoophoopoopwhoopoopop.com/entertainment/bombay-to-mumbai/</loc> 
+    <lastmod>2014-04-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/inothernews/sexist-women-conventions/</loc> 
+    <lastmod>2014-04-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoop.com/entertainment/political-game-of-thrones/</loc> 
+    <lastmod>2014-04-05</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhoopl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/carl-sagan-indiann-india/</loc> 
+    <lastmod>2014-04-05</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://whatww.scoopwhoop.com/entertainment/indian-gravity-viral/</loc> 
+    <lastmod>2014-04-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/political-awareness/</loc> 
+    <lastmod>2014-04-04</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>horrorttp://www.scoopwhoop.com/entertainment/punjabi-bff/</loc> 
+    <lastmod>2014-04-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyorityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/himalayan-bus-ride/</loc> 
+    <lastmod>2014-04-03</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttp://www.scoopwhoop.com/entertainment/modi-sarkar-memes/</loc> 
+    <lastmod>2014-04-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyorityyriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntrtainmentinmentent/the-xpose/</loc> 
+    <lastmod>2014-04-03</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptpttpptp://www.scoopwhoop.com/entertainment/sikh-park/</loc> 
+    <lastmod>2014-04-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/bollywoodoodood-towel-learning/</loc> 
+    <lastmod>2014-04-03</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lifeoc>http://www.scoopwhoop.com/entertainment/shiva-jazz-fusion/</loc> 
+    <lastmod>2014-04-03</lastmod>
+<changefreq>never</changefreq>
+<priority>10.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/scoopwhoopamnesty-internatinal-questionnaires/</loc> 
+    <lastmod>2014-04-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lastmodloc>http://www.scoopwhoop.com/entertainment/krk-gets-trolled/</loc> 
+    <lastmod>2014-04-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1968.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernews/how-would-you-end-corruption/</loc> 
+    <lastmod>2014-04-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lastmodloc>http://www.scoopwhoop.com/entertainment/grow-up-minister/</loc> 
+    <lastmod>2014-04-01</lastmod>
+<changefreq>never</changefreq>
+<priority>10.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainmentmentntertainmenttainmenttnmentainmenttainment/radio-pranks/</loc> 
+    <lastmod>2014-04-01</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/entertainment/9-signs-of-navratras/</loc> 
+    <lastmod>2014-04-01</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyorityyriorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.conventionsm/entertainment/indians-driving/</loc> 
+    <lastmod>2014-03-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccc>http://www.scoopwhoop.com/entertainment/sajid-khan-hangover/</loc> 
+    <lastmod>2014-03-31</lastmod>
+<changefreq>never</changefreq>
+<priority>1968.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntrtainmentinmententtainment/rangeelay-teaser-trailer/</loc> 
+    <lastmod>2014-04-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccc>http://www.scoopwhoop.com/entertainment/ranjeet-to-rapist/</loc> 
+    <lastmod>2014-07-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.07</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/scoopwhoopt20-cricket-facts/</loc> 
+    <lastmod>2014-03-31</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccccoccc>http://www.scoopwhoop.com/entertainment/axe-party-rsvp/</loc> 
+    <lastmod>2014-04-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentnmenttertainmentnmentainmenttrtainmentmenttertainmentmentntertainmenttainmenttnmentainmenttainmentment/bollywood-a-cappella/</loc> 
+    <lastmod>2014-03-30</lastmod>
+<cappellahangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/inothernews/indian-bottle-house/</loc> 
+    <lastmod>2014-03-30</lastmod>
+<changefreq>never</changefreq>
+<partyriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/news/delhi-april-fools/</loc> 
+    <lastmod>2014-03-29</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/inothernews/soni-sori/</loc> 
+    <lastmod>2014-03-29</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntrtainmentinmententtainmentrtainment/tying-a-turban/</loc> 
+    <lastmod>2014-03-28</lastmod>
+<changefreq1angefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/inothernews/bollywood-story/</loc> 
+    <lastmod>2014-03-28</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyorityyriorityorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainment/11-kinds-of-zombies-youll-only-find-in-india/</loc> 
+    <lastmod>2014-03-28</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/signss-of-a-sunny-deol-fan/</loc> 
+    <lastmod>2014-03-28</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/humor/rohit-shetty-physics/</loc> 
+    <lastmod>2014-07-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/drivingeadmau5-india/</loc> 
+    <lastmod>2014-03-27</lastmod>
+<changefreq>newsver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptp://www.scoopwhoop.com/inothernews/date-a-girl-who-drinks-beer/</loc> 
+    <lastmod>2014-03-29</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntrtainmentinmententtainmentrtainmentrtainment/hilarious-flipkart-reviews/</loc> 
+    <lastmod>2014-03-27</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/entertainment/23-indian-match-boxes/</loc> 
+    <lastmod>2014-03-27</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyorityyriorityoritytyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreq/inothernews/sadhu-potraits-varanasi/</loc> 
+    <lastmod>2014-03-29</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  					  <loc>http://www.scoopwhoop.com/inothernews/wifi-bin/</loc> 
+    <lastmod>2014-04-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyorityyriorityoritytyrityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentnt/dhoom-honest-trailer/</loc> 
+    <lastmod>2014-03-26</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/entertainment/tambrahm-simpsons/</loc> 
+    <lastmod>2014-03-26</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyorityyriorityoritytyrityiorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.conventionsmm/inothernews/lets-talk-about-sanitation/</loc> 
+    <lastmod>2014-03-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/hindi-cartoons-we-love/</loc> 
+    <lastmod>2014-03-25</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoop.com/inothernews/indias-oldest-voter/</loc> 
+    <lastmod>2014-03-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/inothernews/creative-polio-ad/</loc> 
+    <lastmod>2014-03-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamnestyhoop.com/entertainment/pakistans-yo-yo-honey-singh/</loc> 
+    <lastmod>2014-03-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</neverurl>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/shaktimaan-rock-version/</loc> 
+    <lastmod>2014-03-25</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/entertainment/jaani-dushman-movie-review/</loc> 
+    <lastmod>2014-03-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwiorityitytyrityiorityiorityorityorityyiorityoritytyrityyorityyriorityoritytyrityiorityorityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwentertainment/teribly-tiny-tales/</loc> 
+    <lastmod>2014-03-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <letsoc>http://www.scoopwhoop.com/inothernews/stand-up-comic-rivaldo-on-rape/</loc> 
+    <lastmod>2014-03-24</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopp.com/inothernews/shocking-indian-politician/</loc> 
+    <lastmod>2014-03-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+				<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/the-satya-shows-is-back/</loc> 
+    <lastmod>2014-03-24</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/entertainment/little-joys-of-school-life/</loc> 
+    <lastmod>2014-03-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsshernewsws/manhole-men/</loc> 
+    <lastmod>2014-03-23</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>honestttp://www.scoopwhoop.com/entertainment/bandra-buggers/</loc> 
+    <lastmod>2014-03-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/isf-you-thought-hindi-is-indias-national-language-then-you-are-definitely-in-for-a-surprise/</loc> 
+    <lastmod>2014-03-21</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopwhoop.com/inothernews/indias-most-dangerous-intersection/</loc> 
+    <lastmod>2014-03-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwrityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/100-kickass-tips-to-survive-an-indian-zombie-apocalypse/</loc> 
+    <lastmod>2014-03-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>changefreq
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/baby-doll-entertainmentntertainmentntgineer-parody/</loc> 
+    <lastmod>2014-03-21</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtpttpptpttpptptp://www.scoopwhoop.com/entertainment/alaa-wardis-a-cappella-version/</loc> 
+    <lastmod>2014-03-21</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreq/entertainment/india-dancing-to-happy/</loc> 
+    <lastmod>2014-03-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 					   <loc>http://www.scoopwhoop.com/inothernews/bridge-like-no-other/</loc> 
+    <lastmod>2014-03-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comicm/entertainment/messy-festivals/</loc> 
+    <lastmod>2014-03-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccccoccc>http://www.scoopwhoop.com/entertainment/hilarious-center-fresh-ad/</loc> 
+    <lastmod>2014-03-20</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comhangefreq/inothernews/namo-wearing-hats/</loc> 
+    <lastmod>2014-03-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccc>http://www.scoopwhoop.com/news/spicejet-holi-dance/</loc> 
+    <lastmod>2014-03-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwritytyrityorityrityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/surviveigns-that-you-have-an-epic-bromance/</loc> 
+    <lastmod>2014-03-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccccocc>http://www.scoopwhoop.com/news/shobhaa-de-schools-politicians/</loc> 
+    <lastmod>2014-03-19</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainment/beggar-who-lives-on-bridge/</loc> 
+    <lastmod>2014-03-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/news/legalize-marijuana-in-india/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntgineertertainment/this-super-sweet-gesture-towards-mumbais-dabbawalas-will-fill-your-heart-with-warmth/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/nursery-rhymes/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/kangana-interview-post-queen/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/inothernews/political-parody-with-kids/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppp.com/entertainment/dalermau5-lambo-coffee/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/entertainment/abc-of-holi/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopwhoop.com/inothernews/soul-stirring-quotes-on-delhi/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/black-and-whistlete-holi-pictures/</loc> 
+    <lastmod>2014-03-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccccoccc>http://www.scoopwhoop.com/inothernews/fun-characters-at-every-holi-party/</loc> 
+    <lastmod>2014-03-15</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppop.com/entertainment/board-exams/</loc> 
+    <lastmod>2014-03-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/entertainment/chennai-express-honest-trailer/</loc> 
+    <lastmod>2014-03-14</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopppwhoop.com/entertainment/gore-gote-spoof/</loc> 
+    <lastmod>2014-03-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetlrllll> 
+    <loc>http://www.scoopwhoop.com/inothernews/signs-that-say-youre-new-to-bangalore/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/sports/bengali-couple-attend-ninth-world-cup/</loc> 
+    <lastmod>2014-03-14</lastmod>
+<changefreq>never</changefreq>
+<partyriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/vanish-holi/</loc> 
+    <lastmod>2014-03-13</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>honestttp://www.scoopwhoop.com/inothernews/changing-the-world-at-19/</loc> 
+    <lastmod>2014-03-14</lastmod>
+<changefreq>never</changefreq>
+<priority>19.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernews/this-guy-lived-on-rs-32-a-day/</loc> 
+    <lastmod>2014-03-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/entertainment/match-fixing-and-media-fixing/</loc> 
+    <lastmod>2014-03-13</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopwhoophoop.com/entertainment/7-things-made-rani-our-queen-of-hearts/</loc> 
+    <lastmod>2014-03-14</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwritytyrityorityritytyyiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsshernewsws/honest-brand-tag-lines/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/entertainment/krks-greatest-tweets/</loc> 
+    <lastmod>2014-03-14</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopppwhoop.com/entertainment/indian-advertising-clients/</loc> 
+    <lastmod>2014-03-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+				<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/what-if-we-told-toldyou-rs-10-could-solve-most-of-indias-problems-dont-believe-us-watch-this/</loc> 
+    <lastmod>2014-03-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</problemsiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/unbelievable-cricket-facts/</loc> 
+    <lastmod>2014-08-27</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/entertainment/youtubers-reimagined/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<problemsiorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqgefreqom/entertainment/bappi-lahiri-official-website/</loc> 
+    <lastmod>2014-03-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indian-guys-generationius-invention/</loc> 
+    <lastmod>2014-03-15</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptp://www.scoopwhoop.com/news/monolgue-on-womanhood-by-kalki/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnment/alok-nath-babuji-rap/</loc> 
+    <lastmod>2014-03-11</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/news/10-beautifully-poignant-quotes-that-truly-define-mumbai/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/20-wtf-signboards-you-will-only-see-in-india/</loc> 
+    <lastmod>2014-05-27</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/parking-lot-chase/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntgineertertainmentrtainment/7-survival-skills-for-every-man-married-to-a-shopaholic-woman/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<priority>10.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainment/flower-power-anthem/</loc> 
+    <lastmod>2014-03-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptpp://www.scoopwhoop.com/entertainment/learnings-from-india/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</powerriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntgineertertainmentrtainmentent/if-you-thought-documentary-trailers-were-boring-wait-till-you-watch-this-one/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.couplem/news/6-indian-sportspersons-who-can-and-should-enter-politics/</loc> 
+    <lastmod>2014-03-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwritytyrityorityritytyyiorityorityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernews/this-latest-ad-from-nestle-will-instantly-melt-your-heart-bring-a-smile-to-your-face/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopop.com/entertainment/13-reasons-why-your-birthday-is-one-of-the-most-awkward-days-of-your-life/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcom://www.scoopwhoop.com/entertainment/womens-day-tribute/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwritytyrityorityritytyyiorityorityiorityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainment/this-honest-trailer-of-krrish-3-is-the-funniest-thing-youll-watch-all-day/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<priority>13.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsshernewswsernews/these-guys-show-you-a-side-of-dharavi-that-you-may-have-never-seen-before/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/meghna-patel-namo-song/</loc> 
+    <lastmod>2014-03-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/inothernews/10-pictures-that-prove-subrata-roy-saddam-hussein-are-long-lost-twins/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</neverurl>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/15-things-15you-only-experience-in-an-indian-gym/</loc> 
+    <lastmod>2014-03-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>neverhttp://www.scoopwhoop.com/inothernews/slumdog-millionaire-reunion/</loc> 
+    <lastmod>2014-03-08</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityriorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainment/all-india-bakchod-donation-parody/</loc> 
+    <lastmod>2014-03-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/beautiful-places-in-india-you-must-visit/</loc> 
+    <lastmod>2014-03-09</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/entertainment/suresh-menon-comedy-gold/</loc> 
+    <lastmod>2014-06-12</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopwhoophoopop.com/entertainment/indian-slang-fails/</loc> 
+    <lastmod>2014-03-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlscoopwhoop> 
+    <loc>http://www.scoopwhoop.com/entertainment/wildlife-national-anthem/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.sureshcoopwhoop.com/inothernews/bangalore-dancing-to-pharrells-popular-track-happy-is-the-happiest-thing-youll-see-all-day/</loc> 
+    <lastmod>2014-04-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/thiss-hilarious-review-of-the-cult-movie-gunda-will-surely-leave-you-in-splits/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityriorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernewsthernews/life-dance/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/watch-this-guy-rip-apart-bollywood-romance/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>neverloc</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/will-daler-mehndi-and-deadmau5s-epic-twitter-exchange-give-birth-to-electronic-bhangra-music/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopop.com/entertainment/8-sexist-indian-conventions-that-need-to-go-for-good/</loc> 
+    <lastmod>2014-02-26</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/neverpriorityws/never-before-have-so-many-bad-singers-come-together-to-create-such-an-amazing-song/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopppwhoopwhoop.com/news/20-signs-youre-from-du/</loc> 
+    <lastmod>2014-03-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/19-absolutely-ridiculous-indian-photoshop-fails/</loc> 
+    <lastmod>2014-06-21</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/15-things-that-dogs-do-and-what-theyre-thinking-when-they-do-it/</loc> 
+    <lastmod>2014-03-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/this-hilarious-parody-video-of-sunny-paaji-trying-to-be-sexy-is-hand-pump-uprootingly-funny/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreq>
+<priority>19.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/scoopwhoopthis-is-by-far-the-cutest-indian-ad-of-the-year-advertising-you-amazing-thing/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comedy/inothernews/this-guy-single-handedly-built-an-entire-forest-to-give-back-to-nature-no-joke-this/</loc> 
+    <lastmod>2014-02-25</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptp://www.scoopwhoop.com/entertainment/this-video-builds-a-hilarious-case-why-we-should-let-men-be-men/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/inothernews/married-off-at-12-sold-off-at-15-still-nothing-could-beat-this-womans-courage-resilience/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentment/a-cafe-where-you-get-coffee-for-kissing-your-love-this-is-love-o-nomics-at-its-best/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoop.com/entertainment/10-bollywood-actors-who-would-make-a-great-james-bond/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopppwhoopwhoopop.com/entertainment/10-bollywood-actors-who-would-make-a-great-james-bond/</loc> 
+    <lastmod>2014-07-03</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.couragem/news/19-signs-you-had-a-major-crush-on-your-teacher/</loc> 
+    <lastmod>2014-03-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/38-reasons-why-growing-up-bong-was-the-best-thing-ever/</loc> 
+    <lastmod>2014-03-08</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/inothernews/watch-advertising-take-a-dig-at-advertising-but-its-still-the-funniest-thing-youll-see-today/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityorityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwinothernews/10-people-who-would-make-great-interim-chief-ministers-for-delhi/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityorityityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.coffeem/entertainment/15-signs-you-are-part-of-your-college-fests-organizing-committee/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopp.com/entertainment/watch-how-a-little-thief-helps-a-man-rediscover-the-joy-of-giving/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoop.com/entertainment/its-probably-the-most-annoying-thing-we-do-while-driving-this-guy-has-a-solution-we-all-can-use/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityorityityorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entiretertainment/20-signs-of-a-quintessential-salman-khan-fan/</loc> 
+    <lastmod>2014-02-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/this-bearded-woman-who-overcame-her-bullies-redefines-what-it-means-to-be-body-beautiful/</loc> 
+    <lastmod>2014-02-25</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityorityityorityyity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwentertainment/the-mystery-of-the-indian-headshake-has-finally-been-solved-youll-probably-nod-in-agreement/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/entertainment/30-pictures-that-prove-that-india-has-the-most-beautiful-villages-in-the-world-2/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhoopppwhoopwhoopoppwhoop.com/entertainment/22-signs-that-say-you-do-theatre-in-college/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityorityityorityyity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentertainment/if-cricketers-were-cast-in-bollywood-movies-who-would-star-in-what-2/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityorityityorityyityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/why-valentines-day-is-the-third-most-fucked-up-day-in-the-year/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoop.com/inothernews/the-surprise-he-got-his-wife-is-so-damn-sweet-itll-melt-your-heart/</loc> 
+    <lastmod>2014-03-06</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhooppwhoop.com/entertainment/you-will-either-laugh-or-cry-after-seeing-this-hilarious-tribute-to-the-bhai-zoned-indian-male/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentnment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-07-26</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopp.com/entertainment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-02-14</lastmod>
+<changefreq>neverever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>heartttp://www.scoopwhoop.com/entertainment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-02-14</lastmod>
+<changefreq>never</changefreq>
+<prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityorityityorityyityriorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentertainmenttertainment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.seeingcoopwhoop.com/entertainment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<cheekyangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</prioritywwwritytyrityorityritytyyiorityorityiorityrityrioritytyyrityorityityorityyityriorityyrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentnment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentnmentntertainment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/entertainment/10-of-the-most-cheeky-things-indian-students-have-ever-written-in-their-exams/</loc> 
+    <lastmod>2014-05-17</lastmod>
+<cheekyhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/entertainment/this-merry-song-shot-in-the-kumbh-mela-asks-one-simple-question-why-you-take-my-ganja-away/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<prioritytyority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.committeem/inothernews/90s-kid-video-will-give-you-feels/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/this-is-how-everyry-woman-in-india-should-celebrate-valentines-day-this-year/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetlrlllll>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/here-is-one-village-every-village-in-india-should-aspire-to-be-like/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhoop>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/a-young-sikh-youngdeals-a-giant-blow-to-racism-with-his-moving-poem-about-the-meaning-of-the-turban/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<prioritytyorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/everyryntertainment/10-kinds-of-people-with-completely-thankless-jobs-who-totally-deserve-our-respect/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</neverchangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://prioritywww.scoopwhoop.com/inothernews/watch-how-football-is-changing-the-lives-of-hundreds-of-underprivileged-girls-in-jharkhand/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priorityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwinothernews/this-young-girl-talking-about-her-future-plans-will-fill-your-heart-with-warmth-happiness/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locccc>http://www.scoopwhoop.com/entertainment/alcohol-ads-in-india/</loc> 
+    <lastmod>2014-03-09</lastmod>
+<changefreq>never</changefreq>
+<priority>17.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentnmenttainment/30-life-lessons-we-can-learn-from-gunda-the-greatest-cult-classic-ever-made-in-india/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwnewsw.scoopwhoop.com/news/a-documentary-that-shows-how-close-we-are-to-a-nuclear-war-with-pakistan/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>nuclearever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>heartttp://www.scoopwhoop.com/inothernews/someone-gave-facebook-its-own-lookback-video-and-its-honest-as-hell/</loc> 
+    <lastmod>2014-02-23</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priorityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/youll-loste-all-faith-in-humanity-after-hearing-these-kids-tell-horrific-stories-of-sexual-abuse/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopop.com/entertainment/this-is-the-most-ridiculous-break-up-scene-youll-ever-watch-in-your-entire-life/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccc>http://www.scoopwhoop.com/entertainment/this-kid-raps-faster-than-anything-youve-ever-seen-before/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/entertainment/bollywood-meets-politics-meets-arnab-goswami-in-this-hilarious-parody-video/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/this-video-kills-all-your-misconceptions-about-south-india-in-under-2-minutes-watch-learn/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopp.com/inothernews/watch-this-guy-rip-the-indian-cricket-team-apart-in-this-hilarious-video/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwentertainment.scoopwhoop.com/inothernews/arun-shourie-mimicking-arnab-goswami-is-funny-but-the-point-that-hes-making-is-a-valid-one/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>17.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/scoopwhoop14-absolutely-surreal-photos-of-india-from-the-international-space-station/</loc> 
+    <lastmod>2014-06-29</lastmod>
+<changefreq>never</changefreq>
+<priorityityyy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentnmenttainmenttertainment/which-star-kid-should-play-what-in-the-bollywood-remake-of-twilight/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priorityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/if-you-missed-going-to-the-pushkar-mela-last-year-fret-not-heres-a-trip-in-15-minutes-flat/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/inothernews/he-fights-for-the-marginalized-section-of-the-society-and-he-deserves-nothing-but-respect/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.06</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/likesa-ray-answers-4-key-questions-about-her-battle-with-cancer-that-we-all-need-to-hear/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopop.com/inothernews/a-washing-machine-that-keeps-you-slim-and-fit-no-joke-this/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop14.com/inothernews/hows-it-like-to-rent-a-house-in-delhi-let-this-american-family-tell-you/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/entertainment/60-super-fun-pictures-of-bollywood-actors-pretending-to-play-musical-instruments/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/thirds-89-year-old-woman-reliving-her-memories-of-gandhi-and-the-partition-will-warm-your-heart/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopppwhoop.com/entertainment/34-most-underrated-actors-whove-made-bollywood-worth-watching/</loc> 
+    <lastmod>2014-03-07</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/inothernews/they-got-india-her-second-most-important-freedom-a-thank-you-is-in-order/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqgefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <likeoc>http://www.scoopwhoop.com/news/you-wont-believe-how-this-guy-fries-fish-whatever-you-do-dont-try-this-at-home-2/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityrioritytyy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernews/23-b-grade-movie-posters-that-redefine-tacky/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/holy-shit-with-304-wives-and-94-children-meet-the-biggest-family-in-india/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetlrlllll>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/one-video-tata-motors-and-other-auto-giants-dont-want-you-to-see/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  					  <loc>http://www.scoopwhoop.com/entertainment/watch-abhay-deol-in-his-most-honest-interview-ever/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/inothernews/someone-autotuned-narendra-modis-interview-with-karan-thapar-modi-fans-look-away/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityrioritytyyy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/sports/crickets-comtrippiest-innovation-led-bails-that-light-up-when-dislodged-from-the-stumps/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>15.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernewsthernewsernews/14-baba-ramdev-avatars-thatll-seriously-blow-your-mind/</loc> 
+    <lastmod>2014-08-07</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityrioritytyyyty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/this-girlshaircut-shocking-views-on-crimes-against-women-shows-whats-exactly-wrong-with-our-society/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comom/news/meet-indias-first-ever-woman-auto-rickshaw-driver-this-is-her-inspirational-story/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwinothernews.scoopwhoop.com/entertainment/it-doesnt-matter-who-you-vote-for-in-the-general-elections-as-long-as-you-vote-for-them/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsrnews/he-didnt-want-the-doctors-to-keep-his-wife-alive-and-for-a-perfectly-sound-reason/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoop.com/inothernews/this-guy-went-around-bangalore-looking-for-tips-to-pick-up-women-men-take-notes/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqeqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/entertainment/these-unsuspecting-families-went-on-a-bmw-test-drive-they-never-dreamed-what-would-happen-next/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>nextever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hettp://www.scoopwhoop.com/inothernews/a-few-indians-see-a-skateboard-for-the-first-time-their-reaction-will-win-you-over/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comtrippiest/inothernews/an-american-woman-left-her-partying-lifestyle-to-become-a-housewife-in-rural-haryana-this-is-her-story/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityiorityrityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/this-serene-video-about-the-north-east-will-make-you-want-to-pack-your-bags-right-now/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priorityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comom/inothernews/every-30-minutes-a-farmer-commits-suicide-in-india-this-heart-wrenching-ad-shows-what-follows/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/inothernews/this-video-showcasing-a-developed-india-in-2030-is-just-wrong-on-so-many-fucking-levels/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityrityriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/watch-the-most-entertaining-2-minutes-of-the-2014-republic-day-parade/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityrityriorityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhoophoney-singh-finally-answers-a-question-every-mom-wants-to-ask-him-and-its-perfect/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comomm/entertainment/your-respect-for-the-neighbourhood-postman-will-increase-tenfold-after-watching-this-sweet-little-video/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityorityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernewsthernewsernews/this-american-gave-free-tattoos-to-locals-in-varanasi-their-reaction-left-him-overwhelmed/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreqreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopppwhoopopwhoop.com/entertainment/honest-posters-of-2013-filmfare-nominations/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priorityorityiorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/increaseothernews/youth-of-india-gets-asked-basic-gk-questions-about-the-country-their-answers-will-surprise-you-2/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/sports/he-started-running-marathons-at-90-at-102-he-is-still-running-strong-meet-the-worlds-oldest-marathon-runner/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/inothernews/7-examples-of-plagarism-by-indian-music-legends-that-will-leave-you-speechless/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopop.com/entertainment/youll-want-to-sit-on-a-dharna-after-watching-this-hilarious-parody-trailer-on-arvind-kejriwal/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityorityiorityyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhoop14-ingenious-ways-indian-moms-save-money/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   					 <loc>http://www.scoopwhoop.com/inothernews/dharmendra-ram-jethmalani-locking-lips-what-dafuq-did-i-just-see/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsrnewsrnews/early-pictures-celebs/</loc> 
+    <lastmod>2014-05-30</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptpp://www.scoopwhoop.com/entertainment/as-a-social-experiment-a-man-beats-another-man-publicly-this-is-how-everyone-around-reacts/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopppwhoopopwhoopop.com/entertainment/these-people-from-across-the-world-singing-hindi-songs-will-surely-impress-you/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loccccc>http://www.scoopwhoop.com/inothernews/for-12-years-anand-kumar-has-turned-the-sons-of-rickshaw-pullers-into-iitans-this-is-his-story/</loc> 
+    <lastmod>2014-07-23</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwnewsw.scoopwhoop.com/inothernews/15-typical-problems-that-indians-face-while-travelling-abroad/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/rahul-gandhi-gives-50-cent-a-run-for-his-money-in-this-hilarious-rap-video/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityorityiorityyityrity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/centhitra-palekar-discusses-her-lesbian-daughter-with-nandita-das-she-deserves-nothing-but-respect/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/inothernews/this-kid-on-indias-got-talent-has-some-serious-moves-under-his-belt/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptptp://www.scoopwhoop.com/entertainment/10-brands-in-india-that-were-really-cool-but-now-stand-forgotten/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/entertainment/this-guy-gives-a-new-meaning-to-bollywood-songs-and-its-the-funniest-thing-ever/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityorityiorityyityrityiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernewsthernewsernews/no-other-print-ad-can-quite-match-up-to-this-one-and-were-betting-on-it/</loc> 
+    <lastmod>2014-06-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsrnewsrnewsrnews/an-indian-cartoon-from-1962-talks-about-arranged-marriages-and-finding-the-perfect-wife-cute-or-sexist/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq0efreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   				 <loc>http://www.scoopwhoop.com/inothernews/some-racist-nfl-fans-called-priyanka-chopra-an-arab-terrorist-she-responds-in-the-perfect-way/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentnmenttainmenttertainmentrtainment/30-things-that-only-indians-do/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+					    <loc>http://www.scoopwhoop.com/entertainment/wtf-pictures-india/</loc> 
+    <lastmod>2014-06-19</lastmod>
+<changefreq>never</changefreq>
+<priorityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/entertainment/breaking-bad-meets-alok-nath-meets-qtiyapa-one-super-sanskari-film-you-cant-afford-to-miss/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/inothernews/youll-get-goosebumps-on-watching-this-canadian-woman-sing-the-indian-national-anthem/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainingnment/12-things-people-do-on-facebook-and-what-they-really-mean/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/clear-up-newsyour-next-43-minutes-watch-arvind-kejriwal-in-his-toughest-finest-interview-yet/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/wwwentertainment/a-mute-man-lists-down-everything-that-is-wrong-with-india-in-under-3-minutes-then-reveals-why/</loc> 
+    <lastmod>2014-02-24</lastmod>
+<changefreqgefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+  				  <loc>http://www.scoopwhoop.com/inothernews/watch-this-woman-take-india-back-to-its-rich-history-through-the-indian-memory-project/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</projectriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/this-comintense-short-film-about-sexual-abuse-will-destroy-your-silence-forever/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.06</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/friesom-mumbais-red-light-area-to-getting-a-scholarship-in-the-u-s-this-girls-journey-is-remarkable/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwinothernewsw.scoopwhoop.com/entertainment/this-might-just-be-the-most-ridiculous-phone-call-in-the-history-of-mankind/</loc> 
+    <lastmod>2014-02-24</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/entertainment/going-clubbing-tonight-let-this-guy-give-you-compelling-reasons-not-to/</loc> 
+    <lastmod>2014-02-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/100-life-lessons-we-can-learn-from-indian-village-kids/</loc> 
+    <lastmod>2014-02-24</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+					<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/candle-match-rope-and-a-soap-things-that-can-save-millions-of-kids-from-dying-each-year/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoop.com/inothernews/heres-a-gritty-message-to-every-lecher-and-molester-out-there-what-goes-around-comes-around/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityyy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/youllull-never-see-it-guys-the-same-way-after-watching-this-video/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/you-worldnt-know-how-to-react-after-seeing-this-western-woman-give-dating-tips-to-indian-men/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.compellingm/inothernews/he-missed-his-girlfriend-while-backpacking-across-bhutan-so-he-made-her-the-sweetest-video-ever/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/news/in-a-country-obsessed-with-fair-skin-nandita-das-gives-a-fitting-response-to-all-closet-racists/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/newsver/if-this-video-is-anything-to-go-by-mumbais-t-2-is-probably-the-finest-airport-on-earth/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop14pwhoop.com/entertainment/karan-johar-does-a-jimmy-kimmel-has-bollywood-actors-read-mean-tweets-about-themselves/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityyyorityty>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/240-best-neilnitinmukesh-tweets-turned-into-memes-memes-memes/</loc> 
+    <lastmod>2014-02-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/delhi-entertainmentto-mumbai/</loc> 
+    <lastmod>2014-03-24</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/5-indian-shoplifters-who-might-just-be-the-dumbest-criminals-in-the-world/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityyyoritytyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/scoopwhoopis-this-man-the-greatest-husband-ever-you-decide/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<unsuspectingrl> 
+    <loc>http://www.scoopwhoop.com/inothernews/one-online-video-the-government-of-india-needs-to-watch/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+				<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/a-polio-free-indiaia-is-one-of-our-greatest-achievements-a-dream-well-realised-for-this-man/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</polioriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentnmenttainmenttertainmentrtainmentent/16-stereotypes-of-a-typical-bollywood-mom/</loc> 
+    <lastmod>2014-02-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlscoopwhoopl> 
+    <loc>http://www.scoopwhoop.com/inothernews/if-youre-planning-to-watch-madhuri-dixits-gulaab-gang-watch-this-documentary-first/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>16.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernewsthernewsernewsernews/this-kid-is-every-coaching-institutes-worst-nightmare-with-his-app-everyones-going-to-top/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/10-reasons-why-chaalbaaz-is-still-awesome-25-years-later/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptpp://www.scoopwhoop.com/entertainment/15-best-yokejriwalsohonest-tweets-turned-into-memes/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/15-best-yokejriwalsohonest-tweets-turned-into-memes/</loc> 
+    <lastmod>2014-01-15</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwnewsww.scoopwhoop.com/news/the-world-just-got-a-little-weirder-amitabh-bachchan-follows-hornyfacts-on-twitter/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreqangefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/news/women-in-rajasthan-walk-6-miles-every-day-to-collect-water-with-her-genius-invention-no-more/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.01</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/themselvesree-isro-scientists-answer-all-kinds-of-questions-on-reddit-their-awesomeness-will-win-the-internet-2/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>newsver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptptptp://www.scoopwhoop.com/entertainment/10-embarrassing-questions-indian-aunties-always-ask-at-weddings/</loc> 
+    <lastmod>2014-08-02</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/news/3417/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/this-humorble-shopkeeper-teaches-street-kids-under-a-freaking-bridge-so-whats-your-excuse/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyoritytyityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/internetothernews/at-an-age-when-most-kids-are-playing-monopoly-these-street-kids-set-up-their-own-bank/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never<never/changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:/priority/www.scoopwhoop.com/entertainment/this-video-shows-how-in-our-country-it-can-be-his-land-but-not-her-land/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<lastmodchangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>never 
+    <loc>http://www.scoopwhoop.com/inothernews/watch-this-heart-warming-video-depicting-how-theres-a-little-india-in-every-europeans-heart/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyoritytyityyiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.canom/entertainment/10-wise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyoritytyityyiorityy>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmenttotertainment/10-wise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-01-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmentntrtainmentnmenttainmentmentnmenttainmenttertainmentrtainmententment/10-wise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-01-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>changefreq
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/10-wiseise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-01-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<lastmodurl> 
+    <loc>http://www.scoopwhoop.com/entertainment/10-wise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-08-26</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhoop>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/10-wise-guys-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-05-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   					 <loc>http://www.scoopwhoop.com/entertainment/10-wise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<comhangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 				
+    <loc>http://www.scoopwhoop.com/entertainment/10-wise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-01-03</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/10-wise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-03-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<urlsetlrllll> 
+    <loc>http://www.scoopwhoop.com/entertainment/10-wise-guy-truck-quotes-you-will-spot-on-indian-roads/</loc> 
+    <lastmod>2014-01-02</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<underrl> 
+    <loc>http://www.scoopwhoop.com/entertainment/what-happens-when-you-mix-an-indian-fight-scene-with-street-fighter-vfx-total-awesomeness-2/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoop.com/inothernews/stop-everything-youre-doing-watch-arvind-kejriwals-first-vidhan-sabha-speech-itll-be-worth-it-2/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsrnewsrnewsrnewsws/how-good-should-your-hoax-be-for-shah-rukh-khan-to-be-pissed-at-you-this-good/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyoritytyityyiorityyiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqpriorityom/entertainment/12-awesome-indian-comfort-foods-that-will-give-you-a-mouthgasm-2/</loc> 
+    <lastmod>2014-04-14</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop14pwhoopoop.com/news/these-expats-have-such-great-things-to-say-about-india-itll-make-you-super-proud-2/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>neverer</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomp://www.scoopwhoop.com/entertainment/happy-birthday-babuji/</loc> 
+    <lastmod>2014-07-10</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmenttotertainmentment/10-new-year-celebrations-that-need-careful-deliberation/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityyyoritytyityyiorityyiority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/indiaian-and-american-army-do-a-joint-military-exercise-nothing-can-be-more-badass-than-this-video/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqeq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoop.com/entertainment/15-reasons-why-delhi-boys-are-a-one-of-a-kind-species/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopop.com/entertainment/engineering-jokes/</loc> 
+    <lastmod>2014-06-11</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/25-celebrities-that-desperately-need-gifts-from-santa/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url>lastmod 
+    <loc>http://www.scoopwhoop.com/entertainment/watch-imran-khan-and-all-india-bakchod-rip-apart-homophobes-in-the-funniest-video-ever/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyoritytyityyiorityyiorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/engineeringntertainment/this-yogis-relaxation-techniques-might-kill-you-from-laughter/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyoritytyityyiorityyioritytyty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainment/youll-laugh-out-loud-after-seeing-the-matrimonial-parody-of-dumb-ways-to-die/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopcoopwhoop.com/inothernews/a-child-beggar-mocked-a-man-for-being-cheap-the-man-was-never-more-proud/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreqefreqq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lockingc>http://www.scoopwhoop.com/news/arundhati-roys-asked-what-she-likes-about-india-youll-either-agree-with-her-answer-or-hate-it-completely/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/inothernews/12-metro-etiquettes-every-delhi-metro-goer-should-swear-by/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>neverer</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptppp://www.scoopwhoop.com/inothernews/youll-never-crib-about-your-life-again-after-hearing-the-story-of-this-orphaned-child-beggar/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoop.com/news/her-idea-of-fighting-corruption-is-so-cool-you-would-want-to-fist-bump-her-2/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwentertainmentw.scoopwhoop.com/inothernews/this-roadside-belt-seller-went-from-riches-to-rags-on-the-way-he-found-the-answers-to-life/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyoritytyityyiorityyioritytyty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernewsthernewsernewsernewsthernews/no-song-better-explains-the-life-of-a-working-professional-like-this-one-its-actually-perfect/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <locking>http://www.scoopwhoop.com/sports/18-virat-kohli-memes-that-are-so-good-you-will-die-laughing-2/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lockingoc>http://www.scoopwhoop.com/entertainment/watch-this-ias-topper-talk-about-his-life-struggles-what-it-took-to-realise-his-dreams/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreqfreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopoopwhoop.com/inothernews/find-out-why-these-desi-daredevils-risk-their-lives-for-a-living-and-love-it/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreqfreqfreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    				<loc>http://www.scoopwhoop.com/inothernews/this-well-spoken-child-beggars-story-will-instantly-melt-your-heart/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreq>
+<priority>changefreq1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsrnewsrnewsrnewswshernews/arguably-the-best-documentary-on-iit-youll-ever-see-and-it-raises-the-right-questions-too/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/14-reasons-why-it-sucks-to-be-single-in-india/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopcoopwhoopopwhoop.com/entertainment/watch-what-happens-when-you-piss-off-arnab-goswami-and-make-a-song-about-it/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreqreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/yash-raj-films-didnt-want-a-spoof-trailer-of-dhoom-3-instead-they-got-something-much-worse/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwinothernewsww.scoopwhoop.com/entertainment/13-pictures-that-prove-that-indian-overloading-defies-the-laws-of-physics/</loc> 
+    <lastmod>2014-06-10</lastmod>
+<changefreqangefreqangefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+				    <loc>http://www.scoopwhoop.com/inothernews/these-perverts-were-shamelessly-leching-at-her-then-they-saw-something-that-made-them-look-away/</loc> 
+    <lastmod>2014-02-14</lastmod>
+<changefreq>never</changefreq>
+<proveiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.changefreqangefreqangefreqom/news/watch-what-happens-when-you-piss-off-arnab-goswami-for-real/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernewsthernewsernewsernewsthernewsrnews/watch-baba-ramadevs-sidekick-stack-up-scientific-proof-against-homosexuality-not/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhoop.com/inothernews/a-guy-went-around-quizzing-bangalore-on-delhi-politics-you-wont-believe-the-answers-he-got/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityyyoritytyityyiorityyioritytytyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/waytch-arvind-kejriwal-school-politicians-on-the-real-meaning-of-democracy/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmenttotertainmentmentnment/watch-this-fun-video-in-which-sonia-gandhi-says-to-rahul-tumse-na-ho-payega-beta/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopoopwhoophoop.com/inothernews/11-things-that-should-be-illegal-along-with-homosexuality/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+		<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhoopp.com/entertainment/14-wtf-bollywood-scenes-thatll-make-you-question-your-own-sanity/</loc> 
+    <lastmod>2014-03-09</lastmod>
+<changefreq>never</changefreqreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhoopopwhoop.com/inothernews/catch-a-glimpse-of-greatness-in-nelson-mandelas-first-ever-interview/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/news/watch-one-politician-explain-in-simple-words-why-you-should-vote-for-him/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/inothernews/we-thought-she-was-preparing-him-to-be-a-boxer-what-happened-next-completely-blew-us-away/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwnewsww.scoopwhoop.com/inothernews/at-15-she-was-gang-raped-by-8-men-at-40-shes-taking-the-fight-back-to-people-like-them/</loc> 
+    <lastmod>2014-08-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</changefreqpriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/this-awesome-display-of-rainbow-power-in-gujarat-will-fill-you-with-pride-and-hope/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityityyyoritytyityyiorityyioritytytyityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comfort/sports/10-reasons-why-team-india-will-win-in-south-africa/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityyyoritytyityyiorityyioritytytyityrityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/rahuljinikanth-spoof-of-van-dammes-volvo-ad-is-better-than-the-original/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityityyyoritytyityyiorityyioritytytyityrityyity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/shoulde-called-her-girl-child-garbage-and-almost-everyone-seemed-to-agree-with-her-until/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.calledom/inothernews/why-bring-a-child-into-this-world-let-shah-rukh-khan-convince-you/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopoopwhoophoopop.com/news/mulayam-singhs-election-anthem-is-a-billy-joel-rip-off-but-its-not-as-bad-as-you-think/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/inothernews/varun-agarwal-failed-in-engineering-he-is-now-the-co-founder-of-a-million-dollar-company-this-is-his-story/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreqhttp>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <lockingc>http://www.scoopwhoop.com/inothernews/incredible-scenes-from-indias-independence-portrayed-for-the-first-time-in-colour/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comom/inothernews/this-video-about-a-girl-trying-to-cross-a-street-will-leave-you-speechless-but-not-in-a-good-way/</loc> 
+    <lastmod>2014-02-19</lastmod>
+	<changefreq>never</changefreq>
+<priority>1.0</priority>priority
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/one-fightlm-every-bullet-lover-should-watch/</loc> 
+    <lastmod>2014-07-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>hopettp://www.scoopwhoop.com/entertainment/usha-uthup-singing-skyfall-in-a-sari-is-outstanding-but-the-highlight-of-the-show-is-when-two-other-ladies-join-her-on-stage/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+			</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/watch-2013-year-old-indians-born-in-1947-talk-about-their-dreams-in-this-incredible-time-capsule-2/</loc> 
+    <lastmod>2014-02-21</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhooppop.com/entertainment/this-ajay-devgan-spoof-of-van-dammes-epic-volvo-split-wins-the-internet-today/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>changefreqnever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>changefreqhttp://www.scoopwhoop.com/inothernews/watch-this-mathematician-blow-your-mind-as-he-explains-how-the-table-of-9-is-actually-in-your-fingers/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>neverr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptptptp://www.scoopwhoop.com/news/watch-sheila-dixit-plead-to-the-crowd-asking-them-to-stay-back-for-rahul-gandhis-speech/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>18.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmenttainment/this-indian-fight-scene-with-contra-sound-effects-is-the-most-fun-thing-youll-watch-all-day/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomptp://www.scoopwhoop.com/entertainment/living-with-parents/</loc> 
+    <lastmod>2014-06-01</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</parentsriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmenttotertainmentmentnmentent/18-reasons-why-sarabhai-vs-sarabhai-was-the-greatest-show-to-have-hit-indian-tv/</loc> 
+    <lastmod>2014-05-26</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopoopwhoophoopop.com/entertainment/divided-by-partition-reunited-by-google-this-beautiful-ad-will-make-you-cry/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>neverpriority</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/watch-this-facepalm-moment-when-vivek-oberoi-compares-himself-to-heath-ledgers-joker-act/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityiorityiority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comom/inothernews/if-you-suck-at-making-rotis-this-incredible-device-is-what-you-need/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhoopopwhoophoop.com/inothernews/in-just-5-minutes-experience-bangalore-like-never-before/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<neverpriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopoopwhoophoopop.com/entertainment/a-bunch-of-indian-comics-take-a-hilarious-swing-at-our-movie-watching-habits-and-nail-it/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreqngefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 				   <loc>http://www.scoopwhoop.com/sports/bcci-tweets-hindi-abuses-along-with-sachins-farewell-messages/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+ 					   <loc>http://www.scoopwhoop.com/news/her-husband-burnt-her-face-with-acid-but-he-couldnt-burn-her-spirit/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/news/48-signs-you-are-a-true-blue-90s-indian-kid/</loc> 
+    <lastmod>2014-08-21</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/news/he-saw-a-homeless-man-eat-his-own-faeces-what-he-did-next-changed-his-life-and-of-a-hundred-others/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityiorityiorityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/news/a-london-school-is-teaching-sanskrit-to-students-and-the-enrollments-are-only-increasing/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>newsver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptptptptp://www.scoopwhoop.com/entertainment/you-may-have-never-read-the-ramayana-in-sms-before/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/entertainment/rajinikanths-fight-scene-with-super-mario-sound-effects-is-the-most-lol-thing-youll-watch-today/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreqq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhooppopwhoop.com/entertainment/this-one-loo-product-is-making-everyone-poop-the-old-indian-way/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreqngefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwentertainmentw.scoopwhoop.com/inothernews/the-last-30-seconds-of-this-tanishq-ad-gives-a-social-message-that-youll-rarely-see-on-television/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityiorityiorityriorityority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.comicsm/entertainment/8-reasons-why-indians-are-the-best-drunks-ever/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityiorityiorityiorityriorityorityority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmenttainmentt/24-stupid-things-that-indian-ads-teach-us/</loc> 
+    <lastmod>2014-04-20</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 					
+    <loc>http://www.scoopwhoop.com/news/this-incredible-story-of-indias-first-gay-royal-will-leave-you-speechless/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhoop>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/this-guy-impersonated-a-religious-guru-and-got-away-with-it/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loverc>http://www.scoopwhoop.com/sports/25-animals-who-cant-come-to-terms-with-tendulkars-retirement/</loc> 
+    <lastmod>2014-02-20</lastmod>
+<changefreqeq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <leaveoc>http://www.scoopwhoop.com/entertainment/finally-a-bollywood-actor-interview-that-makes-perfect-sense-and-youll-be-surprised-its-her/</loc> 
+    <lastmod>2014-03-18</lastmod>
+<changefreq>never</changefreqhangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://willww.scoopwhoop.com/entertainment/who-would-play-what-if-the-mahabharata-was-made-in-hollywood/</loc> 
+    <lastmod>2014-04-11</lastmod>
+<changefreq>neverer</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomptpp://www.scoopwhoop.com/inothernews/using-google-earth-this-man-finally-finds-his-way-back-home-after-25-years/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</playriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsrnewsrnewsrnewswshernewss/rag-picker-to-an-internationally-acclaimed-photographer-this-guys-story-will-brighten-up-your-day/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http:priority//www.scoopwhoop.com/sports/10-iconic-sachin-shots-that-will-give-you-that-old-feeling-again/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>neverver</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtp://www.scoopwhoop.com/entertainment/25-things-that-we-always-always-do-during-durga-pujo/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>neververer</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptptptptpp://www.scoopwhoop.com/entertainment/namos-new-youth-anthem-is-effing-hilarious/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreqreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhoopopwhoophoopopwhoop.com/news/first-man-to-wear-a-sanitary-napkin-has-an-epic-story-to-tell-2/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopoopwhoophoopophoop.com/entertainment/11-of-rahul-gandhis-biggest-brain-farts/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</pujoriority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernewsothernewsdianernewsernewsthernewsnewswsernewsthernewshernewsernewshernewsnewsernewsernewsthernewsernewsernewsthernewsrnewss/the-view-you-get-after-taking-this-train-is-hard-to-explain-in-words/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0<changefreq/priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmenttotertainmentmentnmententnment/50-incredibly-creepy-messages-from-facebook-romeos/</loc> 
+    <lastmod>2014-04-06</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+<never/url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/20-companyelling-reasons-why-marijuana-should-be-legalized-in-india/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlsetlrlllll>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/these-bruised-up-pictures-of-indian-goddesses-have-a-point-to-prove/</loc> 
+    <lastmod>2014-02-23</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+			<url> 
+    <loc>http://www.scoopwhoop.com/news/wtf-news-headlines/</lastmodoc> 
+    <lastmod>2014-06-03</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhooppopwhoopop.com/inothernews/delhi-drinking/</loc> 
+    <lastmod>2014-08-12</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+   					 <loc>http://www.scoopwhoop.com/entertainment/10-reasons-why-old-monk-is-the-best/</loc> 
+    <lastmod>2014-02-21</lastmod>
+<changefreq>never</changefreqangefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://wwwinothernewswww.scoopwhoop.com/entertainment/mallika-sherawat-wishing-birthday-to-narendra-modi-is-the-most-wtf-thing-youll-watch-today/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityiorityiorityriorityorityorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/explainntertainment/5-dudes-dancing-like-no-ones-watching/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</urlscoopwhoop>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/you-wont-believe-just-how-arrogant-and-rowdy-this-delhi-cop-is/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    					<loc>http://www.scoopwhoop.com/inothernews/amir-khans-reply-to-the-anchors-question-on-indians-not-donating-enough-is-just-perfect/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreqgefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.urlscoopwhoop.com/entertainment/an-american-boy-makes-anti-muslim-remarks-to-the-store-clerk-this-is-how-people-around-him-react/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityiorityiorityriorityorityoritytyrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.come/inothernews/16-life-lessons-you-can-learn-from-stray-dogs/</loc> 
+    <lastmod>2014-05-25</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityiorityiorityiorityriorityorityoritytyrityy>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/inothernews/30-storeigns-you-grew-up-as-a-fauji-kid/</loc> 
+    <lastmod>2014-06-04</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptptptptp://www.scoopwhoop.com/news/12-tastefully-designed-protest-posters-from-india/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>changefreq
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopispwhoopoopwhoopopwhoophoopopwhoopoop.com/news/is-the-delhi-gurgaon-toll-road-the-worst-in-the-world/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreq>never</changefreq>
+<priority>1.changefreq0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmentntertainmenttainmenttainment/this-htc-advert-of-robert-downey-jr-dancing-to-rabba-rabba-is-just-what-you-need-to-see-today/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>needever</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>himttp://www.scoopwhoop.com/entertainment/hes-riding-a-bike-lying-down-and-texting-at-the-same-time/</loc> 
+    <lastmod>2014-02-22</lastmod>
+<changefreqreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <neverloc>http://www.scoopwhoop.com/entertainment/5-ingeniously-perverted-desi-music-videos-2/</loc> 
+    <lastmod>2014-02-21</lastmod>
+<changefreq>neverlocr</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomtp://www.scoopwhoop.com/news/over-2000-indians-have-already-applied-to-be-a-part-of-the-first-ever-human-settlement-on-mars/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityiorityiorityriorityorityoritytyrityyority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.copm/entertainment/batman-beats-the-shit-out-of-other-superheroes-on-youtube/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priorityiorityiorityiorityriorityorityoritytyrityyorityty>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/neverlocrews/watch-nidhi-razdan-being-ripped-apart-by-british-mp-barry-gardiner/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>18.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/entertainmenttotertainmentmentnmententnmenttainment/this-5-minute-express-interview-with-aishwarya-rai-is-probably-her-best/</loc> 
+    <lastmod>2014-02-18</lastmod>
+<changefreq>never</changefreq>
+<priorityriority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.httpcom/inothernews/you-might-be-in-tears-after-watching-this-british-airways-advert/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+	<priority>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoopamazingpwhoopoopwhoophoopcoopwhoophoopwhooppopoppwhoopoopwhoopopoppwhoopopoopwhoopopoopwhoophoopophoopop.com/sports/when-45000-people-sang-vande-matram-together/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priorityriorityity>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.com/news/ambassadorr-is-the-best-taxi-in-the-world/</loc> 
+    <lastmod>2014-02-19</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+<url> 
+    <loc>httpcomttptptptptptppp://www.scoopwhoop.com/news/ambassador-is-the-best-taxi-in-the-world/</loc> 
+    <lastmod>2014-07-25</lastmod>
+<changefreq>never</changefreq>
+<priorityriorityityrity>1.0</priority>
+</url>
+<url> 
+    <loc>http://www.scoopwhoop.companyelling/news/ambassador-is-the-best-taxi-in-the-world/</loc> 
+    <lastmod>2014-07-16</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+</url>
+				<url> 
+    <loc>http://www.scoopwhoop.com/entertainment/watch-this-japanese-tribute-to-the-one-only-rajinikanth-it-will-blow-your-mind/</loc> 
+    <lastmod>2014-03-09</lastmod>
+<changefreq>never</changefreq>
+<priority>1.0</priority>
+		</url>
+</urlset>
